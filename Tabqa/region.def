@@ -1,0 +1,7 @@
+region = {
+    ["name"] = "Tabqa",
+    ["priority"] = 40,
+		["airspace"] = false,
+    ["limits"] = {
+     },
+}

@@ -1,0 +1,10 @@
+objtype = "airbase"
+name = "Hatay"
+coalition = 2
+subordinates = {
+	"HatayABDefenses",
+}
+desc = "Hatay Airbase"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20

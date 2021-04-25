@@ -1,0 +1,7 @@
+region = {
+    ["name"] = "Turkey",
+    ["priority"] = 1,
+		["airspace"] = false,
+    ["limits"] = {
+     },
+}
