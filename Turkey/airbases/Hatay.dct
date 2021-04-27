@@ -3,6 +3,9 @@ name = "Hatay"
 coalition = 2
 subordinates = {
 	"HatayABDefenses",
+	"1BN1AR",
+	"4SFHR",
+	"6SQN6CAV",
 }
 desc = "Hatay Airbase"
 recoverytype = "land"

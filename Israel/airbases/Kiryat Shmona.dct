@@ -1,0 +1,13 @@
+objtype = "airbase"
+name = "Kiryat Shmona"
+coalition = 2
+subordinates = {
+	"KiryatABDefenses",
+	"2SQN17CAV",
+	"227AR",
+	"653SQN",
+}
+desc = "Kiryat Shmona Helicopter Base"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20
