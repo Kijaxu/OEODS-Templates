@@ -1,0 +1,22 @@
+objtype = "facility"						
+name = "HamaPowerPlantA"						
+intel = 5									
+cost = 6									
+coalition = 1								
+tpldata = {}
+exclusion = "HamaPowerPlant"						
+buildings = {								
+	{
+		["name"] = "Power Plant 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 81037893,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a power plant in Hama.\
+\
+Primary Targets: Destroy the power plant, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

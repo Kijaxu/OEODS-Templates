@@ -1,0 +1,34 @@
+objtype = "oca"
+name = "ReneHangars"
+intel = 5
+cost = 3
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Warehouse 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 159025401,
+	},
+	{
+		["name"] = "Warehouse 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 159025402,
+	},
+	{
+		["name"] = "Warehouse 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 159062779,
+	},
+	{
+		["name"] = "Warehouse 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 159062780,
+	},
+}
+desc =
+"%LOCATIONMETHOD% four reinforced Hangars on Rene Mouawad Airbase. We must destroy them to stop the Syrian Air Force from using the airbase.\
+\
+Primary Targets: Destroy the four hangars at Rene Mouawad. There are two at either end of the runway.\
+\
+Recommended Pilots: 2+"

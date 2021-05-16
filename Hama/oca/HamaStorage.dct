@@ -1,0 +1,24 @@
+objtype = "oca"
+name = "HamaStorage"
+intel = 5
+cost = 3
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Warehouse 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 101778402,
+	},
+	{
+		["name"] = "Warehouse 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 101778144,
+	},
+}
+desc =
+"%LOCATIONMETHOD% the primary weapons storage warehouses on Hama Airbase. Destroying them will reduce Syrian Air Capabilities in theater.\
+\
+Primary Targets: Destroy the two large warehouses at %LOCATION%, on Hama Airbase. They are the largest two on the field, near the north-east corner.\
+\
+Recommended Pilots: 2+"
