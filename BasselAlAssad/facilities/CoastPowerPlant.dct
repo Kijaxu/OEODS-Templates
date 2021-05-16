@@ -1,0 +1,37 @@
+objtype = "facility"						
+name = "CoastPowerPlant"					
+intel = 5									
+cost = 6									
+coalition = 1							
+tpldata = {}						
+buildings = {								
+	{
+		["name"] = "Plant 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 80805892,				
+	},
+	{
+		["name"] = "Plant 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 80805891,				
+	},
+	{
+		["name"] = "Building 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 102334475,				
+	},
+	{
+		["name"] = "Building 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 102334483,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian power plant on the coast.\
+\
+Primary Targets: Destroy the two power plants, and the two support buildings to the north, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

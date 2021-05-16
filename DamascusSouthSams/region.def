@@ -1,0 +1,11 @@
+region = {
+    ["name"] = "DamascusSouthSams",
+    ["priority"] = 90,
+		["airspace"] = false,
+    ["limits"] = {
+		["sam"] = {
+			["min"] = 3,
+			["max"] = 5,
+		},
+     },
+}

@@ -1,0 +1,33 @@
+objtype = "facility"						
+name = "IdlibTextileFactory"					
+intel = 5									
+cost = 4									
+coalition = 1							
+tpldata = {}
+exclusion = "IdlibFactory"								
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105842706,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105842724,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105842736,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian military textile factory. This factory is a major supplier of Syrian military equipment.\
+\
+Primary Targets: Destroy the three large warehouses on the south side, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

@@ -10,7 +10,7 @@ subordinates = {
 	"EdC25",
 	"71FS",
 	"416TFS",
-	"VMA311",
+	"VMA542",
 }
 desc = "Incirlik Airbase"
 recoverytype = "land"

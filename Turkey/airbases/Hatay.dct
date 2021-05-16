@@ -7,6 +7,17 @@ subordinates = {
 	"4SFHR",
 	"6SQN6CAV",
 }
+players = {
+    "4SFHR - Colt 7-1",
+	"4SFHR - Colt 7-2",
+	"4SFHR - Colt 7-3",
+	"4SFHR - Colt 7-4",
+	"4SFHR - Colt 8-1",
+	"4SFHR - Colt 8-2",
+	"4SFHR - Colt 8-3",
+	"4SFHR - Colt 8-4",
+
+}
 desc = "Hatay Airbase"
 recoverytype = "land"
 takeofftype = "runway"

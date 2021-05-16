@@ -3,5 +3,13 @@ region = {
     ["priority"] = 20,
 		["airspace"] = false,
     ["limits"] = {
-     },
+		["sam"] = {
+			["min"] = 4,
+			["max"] = 7,
+		},
+		["ewr"] = {
+			["min"] = 2,
+			["max"] = 3,
+		},
+	},
 }

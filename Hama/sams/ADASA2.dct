@@ -1,0 +1,5 @@
+objtype = "sam"
+intel = 2
+cost = 2
+regenerate = true
+exclusion = "ADAProximitySA2"

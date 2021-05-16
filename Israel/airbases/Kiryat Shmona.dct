@@ -7,6 +7,17 @@ subordinates = {
 	"227AR",
 	"653SQN",
 }
+
+players = {
+    "653SQN - Colt 5-1",
+	"653SQN - Colt 5-2",
+	"653SQN - Colt 5-3",
+	"653SQN - Colt 5-4",
+	"653SQN - Colt 6-1",
+	"653SQN - Colt 6-2",
+	"653SQN - Colt 6-3",
+	"653SQN - Colt 6-4",
+}
 desc = "Kiryat Shmona Helicopter Base"
 recoverytype = "land"
 takeofftype = "runway"

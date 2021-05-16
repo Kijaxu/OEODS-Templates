@@ -1,0 +1,45 @@
+objtype = "facility"						
+name = "IdlibGuidelineFactory"					
+intel = 5									
+cost = 4									
+coalition = 1							
+tpldata = {}
+exclusion = "IdlibFactory"								
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174883552,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105021455,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105021461,				
+	},
+	{
+		["name"] = "Fuel Tank 1",				
+		["goal"] = "secondary destroyed",		
+		["id"]   = 105021505,				
+	},
+	{
+		["name"] = "Fuel Tank 2",				
+		["goal"] = "secondary destroyed",		
+		["id"]   = 105021517,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian military SA-2 Guideline assembly plant.\
+\
+Primary Targets: Destroy the three large warehouses in the centre of the plant, %LOCATION%.\
+\
+Secondary Targets: Destroy the four tall, black, fuel tanks on the east side.\
+\
+Recommended Pilots: 2+"
+
+
+

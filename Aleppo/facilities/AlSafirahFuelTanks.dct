@@ -1,0 +1,38 @@
+objtype = "facility"						
+name = "AlSafirahFuelTanks"					
+intel = 5									
+cost = 6									
+coalition = 1							
+tpldata = {}
+exclusion = "AlSafirahPower"								
+buildings = {								
+	{
+		["name"] = "Tank 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 177668211,				
+	},
+	{
+		["name"] = "Tank 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 177668208,				
+	},
+	{
+		["name"] = "Tank 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 177668209,				
+	},
+	{
+		["name"] = "Tank 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 177668210,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% several Syrian fuel storage tanks at the Safirah military base.\
+\
+Primary Targets: Destroy the four large fuel tanks, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

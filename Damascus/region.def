@@ -1,7 +1,7 @@
 region = {
     ["name"] = "Damascus",
-    ["priority"] = 60,
+    ["priority"] = 70,
 		["airspace"] = false,
     ["limits"] = {
-     },
+		},
 }

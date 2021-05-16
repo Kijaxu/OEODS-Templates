@@ -1,0 +1,38 @@
+objtype = "facility"						
+name = "IdlibMunitionsPlant"					
+intel = 5									
+cost = 4									
+coalition = 1							
+tpldata = {}
+exclusion = "IdlibFactory"								
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 176228322,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 176228320,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105841839,				
+	},
+	{
+		["name"] = "Warehouse 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105841669,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian military weapons plant. This plant is critical in their supply of ATGMs.\
+\
+Primary Targets: Destroy the three large warehouses on the east side, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

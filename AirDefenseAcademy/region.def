@@ -1,0 +1,11 @@
+region = {
+    ["name"] = "AirDefenseAcademy",
+    ["priority"] = 50,
+		["airspace"] = false,
+    ["limits"] = {
+		["sam"] = {
+			["min"] = 2,
+			["max"] = 2,
+		},
+     },
+}

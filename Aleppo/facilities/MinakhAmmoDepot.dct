@@ -1,0 +1,29 @@
+objtype = "facility"						-- You can leave this as facility for all pre-marked targets.
+name = "MinakhAmmoDepot"						-- The name of the target itself, must be unique.
+intel = 5									-- Level of accuracy of coordinates. Higher is better, 0-5. I recommend 5 for all of these as they are stationary. 
+cost = 6									-- Ticket value of the target. Refer to list.
+coalition = 1								-- The side that the target belongs to. Leave as 1 for all.
+tpldata = {}								-- You can ignore this unless you specifically want to add defences.
+buildings = {								-- The table that contains the targets to be destroyed.
+	{
+		["name"] = "W Warehouse",				-- Whatever you want to use to define the building in question. Must be unique to this file, can be the same as other files.
+		["goal"] = "primary destroyed",		-- The status this object must be in to count as complete. "Primary", "Secondary" - Self explanatory. "Destroyed", "Damaged" - I recommend destroyed for all of these.
+		["id"]   = 109969410,				-- The building ID from the miz file.
+	},
+	{										-- If you wish to add more targets, copy the entire entry from this line...
+		["name"] = "E Warehouse",
+		["goal"] = "primary destroyed",
+		["id"]   = 109969408,
+	},										-- to this line.
+}
+desc = 										-- This field is the objective briefing. Details below.
+"%LOCATIONMETHOD% a Syrian ammunition depot, supplying their front line.\
+\
+Primary Targets: Destroy the two warehouses on the lot, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+
+-- The desc field has some peculiarities. Firstly, there are two escape phrases, %LOCATION% and %LOCATIONMETHOD%. %LOCATION% is replaced with the coordinates of the target. %LOCATIONMETHOD% is replaced by one of a few presets for how the target was found, e.g. "reconnaissance flights earlier today discovered"
+-- To create a new line you must use two backslashes, one at the end of the line, and another to actually break the line. You can see this in the above field.
