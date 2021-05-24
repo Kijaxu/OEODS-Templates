@@ -4,8 +4,8 @@ region = {
 		["airspace"] = false,
     ["limits"] = {
 		["oca"] = {
-			["min"] = 3,
-			["max"] = 4,
+			["min"] = 4,
+			["max"] = 5,
 		},
 	},
 }
