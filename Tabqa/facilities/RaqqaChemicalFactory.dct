@@ -1,0 +1,38 @@
+objtype = "facility"						
+name = "RaqqaChemSouth"					
+intel = 5									
+cost = 4								
+coalition = 1							
+tpldata = {}
+exclusion = "RaqqaFactory"				
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105580131,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105580130,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105579992,				
+	},
+	{
+		["name"] = "Warehouse 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105580251,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian chemical factory just south of the city of Raqqa.\
+\
+Primary Targets: Destroy the large warehouse in the south of the complex, and the L shaped building next to it, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+
