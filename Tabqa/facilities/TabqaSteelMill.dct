@@ -1,0 +1,32 @@
+objtype = "facility"						
+name = "TabqaSteelMill"					
+intel = 5									
+cost = 4									
+coalition = 1							
+tpldata = {}				
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105283584,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174358585,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174358582,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian steel mill west of Tabqa.\
+\
+Primary Targets: Destroy the two large warehouses on the western side, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

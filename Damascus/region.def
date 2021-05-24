@@ -3,5 +3,9 @@ region = {
     ["priority"] = 70,
 		["airspace"] = false,
     ["limits"] = {
+		["oca"] = {
+			["min"] = 3,
+			["max"] = 4,
 		},
+	},
 }

@@ -1,0 +1,9 @@
+objtype = "oca"
+intel = 4
+cost = 2
+exclusion = "AlDum"
+desc = "Al Dumayr Air Base is a critical airfield in the Syrian Air Force's defence of Damascus. The JFACC has directed that it must be neutralised.\
+\
+Primary Targets: Destroy any MiG-29 Fulcrums on the ground at Al Dumayr AB. Intelligence expects there to be 3-5 aircraft.\
+\
+Recommended weapons: Pilot discretion."

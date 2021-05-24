@@ -1,0 +1,28 @@
+objtype = "facility"						
+name = "TabqaOilFieldSouth"					
+intel = 5									
+cost = 4									
+coalition = 1							
+tpldata = {}	
+exclusion = "TabqaOilFields"				
+buildings = {								
+	{
+		["name"] = "Flare Stack",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 104726673,				
+	},
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 104726528,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian oil field just south west of Tabqa Air Base.\
+\
+Primary Targets: Destroy the flare stack on the eastern end, and the large warehouse to the south, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

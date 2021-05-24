@@ -1,0 +1,43 @@
+objtype = "OCA"
+intel = 5
+cost = 3
+name = "AlDumayrFuel"
+tpldata = {}
+buildings = {
+	{
+		["name"] = "tank 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 289538560,
+	},
+	{
+		["name"] = "tank 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 289538558,
+	},
+	{
+		["name"] = "tank 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 289538559,
+	},
+	{
+		["name"] = "tank 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 289538154,
+	},
+	{
+		["name"] = "tank 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 289538152,
+	},
+	{
+		["name"] = "tank 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 289538153,
+	},
+}
+desc = "Qabr as Sitt Helicopter base serves as a main base for helicopter operations within the Damascus region. Due to the threat posed to our ground forces in upcoming operations, the JFACC has directed it to be neutralized.\
+\
+Primary Targets: Destroy the two fuel tanks on the airfield IOT neutralise the fuel supply of the airfield.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 0

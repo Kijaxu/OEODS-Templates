@@ -1,0 +1,37 @@
+objtype = "facility"						
+name = "TabqaOilRefinery"					
+intel = 5									
+cost = 6								
+coalition = 1							
+tpldata = {}				
+buildings = {								
+	{
+		["name"] = "Refinery 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 170262883,				
+	},
+	{
+		["name"] = "Refinery 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 170262881,				
+	},
+	{
+		["name"] = "Reinery 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 170262880,				
+	},
+	{
+		["name"] = "Refinery 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 170262882,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a large Syrian oil refinery near Tabqa Airbase.\
+\
+Primary Targets: Destroy the four main refinery buildings to the south west, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+
