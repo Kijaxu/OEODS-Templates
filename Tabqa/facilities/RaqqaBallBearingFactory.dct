@@ -1,0 +1,38 @@
+objtype = "facility"						
+name = "RaqqaBallBearingFactory"					
+intel = 5									
+cost = 4								
+coalition = 1							
+tpldata = {}
+exclusion = "RaqqaFactory"				
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 106528959,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 106528937,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 106528938,				
+	},
+	{
+		["name"] = "Warehouse 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 106528936,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian ball bearing factory in the city of Raqqa.\
+\
+Primary Targets: Destroy the four large warehouses in the south east of the factory, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+
