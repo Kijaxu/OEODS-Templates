@@ -1,0 +1,10 @@
+objtype = "LOGISTICS"
+intel = 2
+cost = 2
+desc = "%LOCATIONMETHOD% a Syrian Armoured Infantry Company marshaling IVO Baalbek. An opportunity to knock this unit out cannot be ignored.\
+\
+Primary Targets: Destroy all the tanks in the company. A Syrian company typically exists of 9-14 vehicles.\
+\
+Secondary Targets: None.\
+\
+Recommended Pilots: 2+."

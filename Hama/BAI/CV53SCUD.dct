@@ -1,0 +1,9 @@
+objtype = "LOGISTICS"
+intel = 2
+cost = 2
+exclusion = "CV53"
+desc = "%LOCATIONMETHOD% Syrian SCUD missiles potentially preparing for a launch, at %LOCATION%, Grid CV53.\
+\
+Primary Targets: Destroy any SCUD TELs at the site.\
+\
+Recommended weapons: Pilot discretion."
