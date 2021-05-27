@@ -1,0 +1,27 @@
+objtype = "facility"						
+name = "PalmyraSteelFactory"					
+intel = 5									
+cost = 4							
+coalition = 1							
+tpldata = {}				
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 99319813,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 99319812,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a large steel factory in the city of Palmyra.\
+\
+Primary Targets: Destroy the two large warhouses with black roofs in the centre of the factory, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+
