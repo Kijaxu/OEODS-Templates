@@ -21,7 +21,7 @@ buildings = {
 		["id"]   = 154075359,				
 	},
 	{
-		["name"] = "Warehouse 4,				
+		["name"] = "Warehouse 4",				
 		["goal"] = "primary destroyed",		
 		["id"]   = 154075360,				
 	},
