@@ -1,0 +1,47 @@
+objtype = "facility"						
+name = "PalmyraWeaponsStorage"					
+intel = 5									
+cost = 3								
+coalition = 1							
+tpldata = {}				
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 158859653,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 158859640,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 158859645,				
+	},
+	{
+		["name"] = "Warehouse 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 158859641,				
+	},
+	{
+		["name"] = "Warehouse 5",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 158859651,				
+	},
+	{
+		["name"] = "Warehouse 6",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 158859652,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a large Syrian ammo supply cache north of the city of Palmyra.\
+\
+Primary Targets: Destroy the two southermost sets of warehouses. Each set contains 3 buildings, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+
