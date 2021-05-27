@@ -1,5 +1,5 @@
 objtype = "facility"						
-name = "MineStorage"					
+name = "MineTrainYard"					
 intel = 5									
 cost = 3								
 coalition = 1							
