@@ -1,0 +1,10 @@
+objtype = "LOGISTICS"
+intel = 2
+cost = 2
+desc = "%LOCATIONMETHOD% a Syrian Tank Company marshaling IVO Al Aabde. An opportunity to knock out Syrian armour cannot be ignored.\
+\
+Primary Targets: Destroy all the tanks in the company. A Syrian company typically exists of 9-14 tanks.\
+\
+Secondary Targets: None.\
+\
+Recommended Pilots: 2+."
