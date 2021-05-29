@@ -1,0 +1,9 @@
+objtype = "LOGISTICS"
+intel = 2
+cost = 2
+exclusion = "CA25"
+desc = "%LOCATIONMETHOD% a Syrian Mechanized Infantry Platoon %LOCATION%, Grid CA25.\
+\
+Primary Targets: Destroy any APCs, IFVs, or MBTs at the site.\
+\
+Recommended weapons: Pilot discretion."
