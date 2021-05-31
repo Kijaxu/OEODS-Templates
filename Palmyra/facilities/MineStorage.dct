@@ -1,0 +1,27 @@
+objtype = "facility"						
+name = "MineStorage"					
+intel = 5									
+cost = 3								
+coalition = 1							
+tpldata = {}				
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 97878063,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 97878058,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian iron mine just south of Palmyra.\
+\
+Primary Targets: Destroy the two large warehouses to the north of the storage site, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

@@ -1,0 +1,37 @@
+objtype = "facility"						
+name = "BorderWarehouseA"					
+intel = 5									
+cost = 3								
+coalition = 1							
+tpldata = {}				
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 139132933,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 139132930,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 139132937,				
+	},
+	{
+		["name"] = "Warehouse 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 139132936,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian ammo storage site near the Syrian-Iraqi border.\
+\
+Primary Targets: Destroy all four warehouses on the north side of the small road, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+
