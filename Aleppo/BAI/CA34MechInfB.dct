@@ -2,6 +2,7 @@ objtype = "LOGISTICS"
 intel = 2
 cost = 2
 exclusion = "CA34"
+priority = 2
 desc = "%LOCATIONMETHOD% a Syrian Mechanized Infantry Platoon %LOCATION%, Grid CA34.\
 \
 Primary Targets: Destroy any APCs, IFVs, or MBTs at the site.\

@@ -1,6 +1,7 @@
 objtype = "LOGISTICS"
 intel = 2
 cost = 2
+priority = 2
 exclusion = "BA60"
 desc = "Counter Battery detection suggests that a Syrian artillery unit is operating between Reyhanli and Antakya. As this unit is harrasing Hatay Airfield, a major Coalition FOB, it must be neutralised.\
 \

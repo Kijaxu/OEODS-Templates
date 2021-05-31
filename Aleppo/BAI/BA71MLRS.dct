@@ -1,6 +1,7 @@
 objtype = "LOGISTICS"
 intel = 2
 cost = 2
+priority = 2
 exclusion = "BA71"
 desc = "Counter Battery detection suggests that a Syrian MLRS unit is operating IVO Reyhanli. As this unit is harrasing Hatay Airfield, a major Coalition FOB, it must be neutralised.\
 \
