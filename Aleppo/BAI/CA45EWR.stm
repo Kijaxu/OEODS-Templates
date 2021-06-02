@@ -383,6 +383,21 @@ staticTemplate =
             {
                 [1] = 
                 {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
                     ["id"] = 81,
                     ["vehicle"] = 
                     {
@@ -436,16 +451,6 @@ staticTemplate =
                                                 {
                                                     ["tasks"] = 
                                                     {
-                                                        [1] = 
-                                                        {
-                                                            ["number"] = 1,
-                                                            ["auto"] = true,
-                                                            ["id"] = "EWR",
-                                                            ["enabled"] = true,
-                                                            ["params"] = 
-                                                            {
-                                                            }, -- end of ["params"]
-                                                        }, -- end of [1]
                                                     }, -- end of ["tasks"]
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
@@ -464,11 +469,11 @@ staticTemplate =
                                             ["randomTransportable"] = false,
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
-                                        ["type"] = "55G6 EWR",
-                                        ["unitId"] = 2,
+                                        ["type"] = "p-19 s-125 sr",
+                                        ["unitId"] = 1,
                                         ["y"] = 126490.86610165,
                                         ["x"] = 170596.9619751,
-                                        ["name"] = "PRIMARY DESTROYED 1",
+                                        ["name"] = "PRIMARY DESTROYED EWR-1",
                                         ["heading"] = 0.087081610385396,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [1]
@@ -479,14 +484,59 @@ staticTemplate =
                                             ["randomTransportable"] = false,
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
-                                        ["type"] = "1L13 EWR",
-                                        ["unitId"] = 1,
-                                        ["y"] = 126485.76370646,
-                                        ["x"] = 170685.40349162,
-                                        ["name"] = "PRIMARY DESTROYED 2",
-                                        ["heading"] = 0.087081610385396,
+                                        ["type"] = "Ural-375 PBU",
+                                        ["unitId"] = 13,
+                                        ["y"] = 126520.04359207,
+                                        ["x"] = 170657.04175976,
+                                        ["name"] = "PRIMARY DESTROYED EWR-4",
+                                        ["heading"] = 1.2740903539559,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "ZiL-131 APA-80",
+                                        ["unitId"] = 14,
+                                        ["y"] = 126520.78531325,
+                                        ["x"] = 170630.62108137,
+                                        ["name"] = "PRIMARY DESTROYED EWR-5",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "ZIL-131 KUNG",
+                                        ["unitId"] = 12,
+                                        ["y"] = 126520.86634136,
+                                        ["x"] = 170642.81995052,
+                                        ["name"] = "PRIMARY DESTROYED EWR-3",
+                                        ["heading"] = 1.553343034275,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "1L13 EWR",
+                                        ["unitId"] = 2,
+                                        ["y"] = 126485.76370646,
+                                        ["x"] = 170685.40349162,
+                                        ["name"] = "PRIMARY DESTROYED EWR-2",
+                                        ["heading"] = 0.087081610385396,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
                                 }, -- end of ["units"]
                                 ["y"] = 126490.86610165,
                                 ["x"] = 170596.9619751,
@@ -560,10 +610,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
                                         ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 27,
+                                        ["unitId"] = 3,
                                         ["y"] = 126767.34626396,
                                         ["x"] = 170907.45957011,
-                                        ["name"] = "AAA-4",
+                                        ["name"] = "AAA-1",
                                         ["heading"] = 0.62831853071796,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [1]
@@ -575,7 +625,7 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
                                         ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 26,
+                                        ["unitId"] = 4,
                                         ["y"] = 126181.95848092,
                                         ["x"] = 170904.12035618,
                                         ["name"] = "AAA-2",
@@ -590,10 +640,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
                                         ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 25,
+                                        ["unitId"] = 6,
                                         ["y"] = 126826.55909425,
                                         ["x"] = 170328.3442875,
-                                        ["name"] = "AAA-1",
+                                        ["name"] = "AAA-3",
                                         ["heading"] = 2.2165681500328,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [3]
@@ -605,10 +655,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
                                         ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 13,
+                                        ["unitId"] = 5,
                                         ["y"] = 126161.81471175,
                                         ["x"] = 170323.30834521,
-                                        ["name"] = "AAA-3",
+                                        ["name"] = "AAA-4",
                                         ["heading"] = 4.0317105721069,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [4]
@@ -660,7 +710,7 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-                                ["groupId"] = 5,
+                                ["groupId"] = 3,
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
@@ -672,7 +722,7 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
                                         ["type"] = "Roland Radar",
-                                        ["unitId"] = 23,
+                                        ["unitId"] = 7,
                                         ["y"] = 127992.25164566,
                                         ["x"] = 171824.52782522,
                                         ["name"] = "SAM 1-1",
@@ -687,7 +737,7 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
                                         ["type"] = "Roland ADS",
-                                        ["unitId"] = 24,
+                                        ["unitId"] = 8,
                                         ["y"] = 128117.54221176,
                                         ["x"] = 171689.50093013,
                                         ["name"] = "SAM 1-2",
@@ -702,7 +752,7 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
                                         ["type"] = "Roland ADS",
-                                        ["unitId"] = 20,
+                                        ["unitId"] = 9,
                                         ["y"] = 127790.89687709,
                                         ["x"] = 171708.79645721,
                                         ["name"] = "SAM 1-3",
@@ -718,21 +768,6 @@ staticTemplate =
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                     ["name"] = "CJTF Red",
-                }, -- end of [1]
-                [2] = 
-                {
-                    ["id"] = 18,
-                    ["name"] = "Abkhazia",
-                }, -- end of [2]
-                [3] = 
-                {
-                    ["id"] = 24,
-                    ["name"] = "Belarus",
-                }, -- end of [3]
-                [4] = 
-                {
-                    ["id"] = 27,
-                    ["name"] = "China",
                 }, -- end of [4]
                 [5] = 
                 {
