@@ -1,0 +1,10 @@
+objtype = "LOGISTICS"
+intel = 2
+cost = 2
+priority = 2
+exclusion = "BV68"
+desc = "%LOCATIONMETHOD% a Syrian Armoured Platoon, %LOCATION%, Grid BV68.\
+\
+Primary Targets: Destroy any MBTs at the site. Intelligence suggests there could be approximately 5-8 tanks at the location.\
+\
+Recommended weapons: Pilot discretion."

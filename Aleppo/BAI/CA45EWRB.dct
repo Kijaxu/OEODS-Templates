@@ -1,0 +1,10 @@
+objtype = "LOGISTICS"
+intel = 2
+cost = 2
+exclusion = "CA45"
+priority = 1
+desc = "%LOCATIONMETHOD% a Syrian EWR site %LOCATION%, Grid CA45. IOT degrade the Syrian IADS, the JFACC has directed that sites be neutralized\
+\
+Primary Targets: Destroy the two EWRs.\
+\
+Recommended weapons: Pilot discretion."

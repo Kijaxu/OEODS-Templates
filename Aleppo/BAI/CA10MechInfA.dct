@@ -1,6 +1,7 @@
 objtype = "LOGISTICS"
 intel = 2
 cost = 2
+priority = 3
 exclusion = "CA10"
 desc = "%LOCATIONMETHOD% a Syrian Mechanized Infantry Platoon %LOCATION%, Grid CA10.\
 \

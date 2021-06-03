@@ -1,0 +1,42 @@
+objtype = "LOGISTICS"
+intel = 2
+cost = 2
+exclusion = "CA24"
+priority = 2
+buildings = {
+	{
+		["name"] = "Truck 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 1166704643,
+	},
+	{
+		["name"] = "Truck 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 1166704642,
+	},
+	{
+		["name"] = "Truck 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 1166704641,
+	},
+	{
+		["name"] = "Truck 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 1166704640,
+	},
+	{
+		["name"] = "Building 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 109969408,
+	},
+	{
+		["name"] = "Building 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 109969410,
+	},
+}
+desc = "%LOCATIONMETHOD% a Syrian Army Command Post %LOCATION%, Grid CA22, just south of Minakh Airport .\
+\
+Primary Targets: Destroy the two main buildings on site, as well as any tents and trucks.\
+\
+Recommended weapons: Pilot discretion."
