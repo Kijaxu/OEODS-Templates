@@ -1,0 +1,22 @@
+objtype = "facility"						
+name = "DamascusSouthPowerPlantD"						
+intel = 5									
+cost = 6									
+coalition = 1								
+tpldata = {}
+exclusion = "SouthDamascusPowerB"						
+buildings = {								
+	{
+		["name"] = "Building 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 78025697,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian power plant in southern Damascus.\
+\
+Primary Targets: Destroy the power plant building with the smoke stacks, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

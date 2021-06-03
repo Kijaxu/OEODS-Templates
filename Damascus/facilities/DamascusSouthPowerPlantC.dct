@@ -1,0 +1,32 @@
+objtype = "facility"						
+name = "DamascusSouthPowerPlantC"						
+intel = 5									
+cost = 6									
+coalition = 1								
+tpldata = {}
+exclusion = "SouthDamascusPowerB"						
+buildings = {								
+	{
+		["name"] = "Building 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 78025870,				
+	},
+	{
+		["name"] = "Building 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 93259282,				
+	},
+	{
+		["name"] = "Building 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 93259265,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian power plant in southern Damascus.\
+\
+Primary Targets: Destroy the power plant building with the smoke stacks, and the two generator buildings just west, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
