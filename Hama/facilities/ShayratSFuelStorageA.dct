@@ -1,0 +1,43 @@
+objtype = "facility"						
+name = "ShayratSFuelStorageA"						
+intel = 5									
+cost = 3									
+coalition = 1								
+tpldata = {}
+exclusion = "ShayratSFuelStorage"									
+buildings = {								
+	{
+		["name"] = "Tank 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 98238497,				
+	},
+	{
+		["name"] = "Tank 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 98238499,				
+	},
+	{
+		["name"] = "Tank 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 98238498,				
+	},
+	{
+		["name"] = "Tank 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 98238500,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a massive Syrian liquid gas storage site about 10 nautical miles south west of Shayrat Air Base.\
+\
+Primary Targets: Destroy the large, tall, black fuel storage tanks, %LOCATION%.\
+\
+Recommended Pilots: 2+\
+\
+Target Coordinates:\
+\
+First set of fuel tanks: N 34 21 45.61     E 36 47 37.11\
+\
+Second set of fuel tanks: N 34 21 30.93     E 36 47 52.54"
+
+

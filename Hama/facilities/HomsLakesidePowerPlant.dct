@@ -1,0 +1,27 @@
+objtype = "facility"						
+name = "HomsLakesidePowerPlant"						
+intel = 5									
+cost = 6									
+coalition = 1								
+tpldata = {}
+exclusion = "HomsWPower"						
+buildings = {								
+	{
+		["name"] = "Power Plant 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 80314369,				
+	},
+	{
+		["name"] = "Power Plant 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 80314368,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a large power station on the lake shore south of Hama.\
+\
+Primary Targets: Destroy the two power plants with red and white smoke stacks by the lake shore, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

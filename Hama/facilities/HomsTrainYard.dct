@@ -1,0 +1,26 @@
+objtype = "facility"						
+name = "HomsTrainYard"						
+intel = 5									
+cost = 3									
+coalition = 1								
+tpldata = {}						
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 99781428,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 99781306,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a large train yard in central Homs. This yard is a base of operations for logistics in central Syria and destroying it will severaly impact the flow of supplies into Lebanon.\
+\
+Primary Targets: Destroy the large warehouse, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

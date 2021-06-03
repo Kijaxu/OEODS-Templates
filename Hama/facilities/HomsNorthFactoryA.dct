@@ -1,0 +1,32 @@
+objtype = "facility"						
+name = "HomsNorthFactoryA"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}
+exclusion = "HomsFactoryB"						
+buildings = {								
+	{
+		["name"] = "Factory	1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 80971544,				
+	},
+	{
+		["name"] = "Factory 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 100762848,				
+	},
+	{
+		["name"] = "Factory 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 100762642,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a large factory assembling guidance kits for SCUD missiles in the city of Homs.\
+\
+Primary Targets: Destroy the large building with white and red smoke stacks, and the two large warehouses just south, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
