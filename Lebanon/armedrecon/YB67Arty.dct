@@ -1,4 +1,4 @@
-objtype = "LOGISTICS"
+objtype = "specialforces"
 intel = 2
 cost = 2
 exclusion = "YB67"
@@ -9,3 +9,4 @@ Primary Targets: Destroy all the artillery pieces at the site.\
 Secondary Targets: None.\
 \
 Recommended Pilots: 2+."
+priority = 3

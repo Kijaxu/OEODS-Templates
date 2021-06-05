@@ -2,3 +2,4 @@ objtype = "specialforces"
 intel = 1
 cost = 2
 exclusion = "YC64"
+priority = 8

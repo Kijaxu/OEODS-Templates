@@ -8,3 +8,5 @@ Primary Targets: Destroy the An-26 Curl on the ramp at Rayak before it's cargo c
 Secondary Targets: None.\
 \
 Recommended Pilots: 2+."
+priority = 8
+exclusion = "BT25"
