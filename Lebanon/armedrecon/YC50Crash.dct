@@ -1,0 +1,5 @@
+objtype = "specialforces"
+intel = 2
+cost = 2
+exclusion = "YC50"
+priority = 4

@@ -1,0 +1,12 @@
+objtype = "specialforces"
+intel = 2
+cost = 2
+exclusion = "YB67"
+desc = "Counter Battery detection suggests that a Syrian artillery unit is operating in the mountains east of Kiryat Shmona. As this unit is harrasing the Coalition FOB, it must be neutralised.\
+\
+Primary Targets: Destroy all the artillery pieces at the site.\
+\
+Secondary Targets: None.\
+\
+Recommended Pilots: 2+."
+priority = 3

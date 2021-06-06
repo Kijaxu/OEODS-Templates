@@ -1,0 +1,37 @@
+objtype = "facility"						
+name = "AnNasiriyahFactoryA"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}	
+exclusion = "AnNasiriyahFactory"					
+buildings = {								
+	{
+		["name"] = "Building 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 96010264,				
+	},
+	{
+		["name"] = "Building 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 96010267,				
+	},
+	{
+		["name"] = "Building 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 96010247,				
+	},
+	{
+		["name"] = "Building 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 96010246,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian ball bearing factory just north of Damascus.\
+\
+Primary Targets: Destroy both large grey warehouses, and the L shaped building just east, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
