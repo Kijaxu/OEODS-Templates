@@ -2,3 +2,4 @@ objtype = "sam"
 intel = 2
 cost = 2
 regenerate = true
+priority = 15

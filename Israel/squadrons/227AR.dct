@@ -1,4 +1,4 @@
 objtype = "squadronplayer"
 name = "227AR"
 coalition = 2
-ato = {"BAI"}
+ato = {"ARMEDRECON"}

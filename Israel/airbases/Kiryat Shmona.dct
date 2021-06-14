@@ -9,7 +9,15 @@ subordinates = {
 }
 
 players = {
-    "653SQN - Colt 5-1",
+	"227AR - Pontiac 3-1",
+	"227AR - Pontiac 3-2",
+	"227AR - Pontiac 3-3",
+	"227AR - Pontiac 3-4",
+	"227AR - Pontiac 4-1",
+	"227AR - Pontiac 4-2",
+	"227AR - Pontiac 4-3",
+	"227AR - Pontiac 4-4",
+	"653SQN - Colt 5-1",
 	"653SQN - Colt 5-2",
 	"653SQN - Colt 5-3",
 	"653SQN - Colt 5-4",
