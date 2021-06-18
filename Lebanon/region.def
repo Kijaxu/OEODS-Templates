@@ -15,9 +15,5 @@ region = {
 			["min"] = 0,
 			["max"] = 0,
 		},
-		["specialforces"] = {
-			["min"] = 10,
-			["max"] = 15,
-		},	
      },
 }
