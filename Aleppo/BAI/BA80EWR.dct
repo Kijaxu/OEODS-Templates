@@ -5,6 +5,6 @@ exclusion = "BA80"
 priority = 1
 desc = "%LOCATIONMETHOD% a Syrian EWR site %LOCATION%, Grid BA80. IOT degrade the Syrian IADS, the JFACC has directed that sites be neutralized\
 \
-Primary Targets: Destroy the two EWRs.\
+Primary Targets: Destroy the two EWRs and any supporting vehicles (C2, Generators, etc).\
 \
 Recommended weapons: Pilot discretion."
