@@ -5,49 +5,49 @@ name = "SultanFuel"
 tpldata = {}
 buildings = {
 	{
-		["name"] = "S Tank 1",
-		["goal"] = "primary destroyed",
-		["id"]   = 278696926,
-	},
-	{
-		["name"] = "S Tank 2",
-		["goal"] = "primary destroyed",
-		["id"]   = 278696923,
-	},
-	{
-		["name"] = "S Tank 3",
-		["goal"] = "primary destroyed",
-		["id"]   = 278696925,
-	},
-	{
-		["name"] = "S Tank 4",
-		["goal"] = "primary destroyed",
-		["id"]   = 278696922,
-	},
-	{
-		["name"] = "S Tank 5",
-		["goal"] = "primary destroyed",
-		["id"]   = 278696921,
-	},
-	{
-		["name"] = "S Tank 6",
-		["goal"] = "primary destroyed",
-		["id"]   = 278696924,
-	},
-	{
 		["name"] = "N Tank 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 282100373,
+		["id"]   = 320438920,
 	},
 	{
 		["name"] = "N Tank 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 282100374,
+		["id"]   = 320438921,
 	},
 	{
 		["name"] = "N Tank 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 282100375,
+		["id"]   = 320438922,
+	},
+	{
+		["name"] = "S Tank 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773409,
+	},
+	{
+		["name"] = "S Tank 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773412,
+	},
+	{
+		["name"] = "S Tank 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773413,
+	},
+	{
+		["name"] = "S Tank 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773410,
+	},
+	{
+		["name"] = "S Tank 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773411,
+	},
+	{
+		["name"] = "S Tank 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773408,
 	},
 }
 desc = "Marj as Sultan Helicopter base serves as a main base for helicopter operations within the Damascus region. Due to the threat posed to our ground forces in upcoming operations, the JFACC has directed it to be neutralized..\

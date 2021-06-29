@@ -7,27 +7,27 @@ buildings = {
 	{
 		["name"] = "tank 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 280364906,
+		["id"]   = 318703485,
 	},
 	{
 		["name"] = "tank 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 280364878,
+		["id"]   = 318703456,
 	},
 	{
 		["name"] = "tank 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 280364851,
+		["id"]   = 318703429,
 	},
 	{
 		["name"] = "tank 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 280364830,
+		["id"]   = 318703408,
 	},
 	{
 		["name"] = "tank 5",
 		["goal"] = "primary destroyed",
-		["id"]   = 280364803,
+		["id"]   = 318703381,
 	},
 }
 desc = "Mezzeh Air Base is a critical airfield in the Syrian Air Force's defence of Damascus. The JFACC has directed that it must be neutralised.\
