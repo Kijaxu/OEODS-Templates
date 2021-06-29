@@ -8,13 +8,13 @@ buildings = {
 	{
 		["name"] = "Ship",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 75628544,				
+		["id"]   = 78839808,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a large Syrian cargo ship stuck in the Tripoli Harbour. This ship must be destroyed before Syrian forces can offload her supplies.\
 \
-Primary Targets: Destroy the large cargo ship, %LOCATION%.\
+Primary Targets: Destroy the large cargo ship stuck in the middle of the harbour, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 
