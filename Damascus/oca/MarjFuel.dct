@@ -7,32 +7,32 @@ buildings = {
 	{
 		["name"] = "tank 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 267059404,
+		["id"]   = 304414923,
 	},
 	{
 		["name"] = "tank 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 267059405,
+		["id"]   = 304414924,
 	},
 	{
 		["name"] = "tank 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 267059229,
+		["id"]   = 304414749,
 	},
 	{
 		["name"] = "tank 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 267059232,
+		["id"]   = 304414752,
 	},
 	{
 		["name"] = "tank 5",
 		["goal"] = "primary destroyed",
-		["id"]   = 267059230,
+		["id"]   = 304414750,
 	},
 	{
 		["name"] = "tank 6",
 		["goal"] = "primary destroyed",
-		["id"]   = 267059231,
+		["id"]   = 304414751,
 	},
 }
 desc = "Marj Ruhayyil Air Base has been identified as an alternate airfield for the defence of Damascus. IOT degrade the Syrian's ability to operate within the region, it must be neutralized.\
