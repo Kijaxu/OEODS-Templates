@@ -1,0 +1,34 @@
+objtype = "oca"
+name = "ReneStorage"
+intel = 5
+cost = 3
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Warehouse 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 171606028,
+	},
+	{
+		["name"] = "Warehouse 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 171606027,
+	},
+	{
+		["name"] = "Warehouse 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 379191627,
+	},
+	{
+		["name"] = "Warehouse 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 379191628,
+	},
+}
+desc =
+"%LOCATIONMETHOD% Weapons and Fuel Storage facilities on Rene Mouawad Airbase. We must destroy them to stop the Syrian Air Force from using the airbase.\
+\
+Primary Targets: Destroy the large warehouses on the roads North and West of the Apron. Also destroy the two fuel storage tanks North East of the apron.\
+\
+Recommended Pilots: 2+"

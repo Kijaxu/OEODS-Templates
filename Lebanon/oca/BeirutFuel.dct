@@ -1,0 +1,105 @@
+objtype = "oca"
+name = "BeirutFuel"
+intel = 5
+cost = 6
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Tank 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638759,
+	},
+	{
+		["name"] = "Tank 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638758,
+	},
+	{
+		["name"] = "Tank 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638756,
+	},
+	{
+		["name"] = "Tank 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638776,
+	},
+	{
+		["name"] = "Tank 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638775,
+	},
+	{
+		["name"] = "Tank 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638774,
+	},
+	{
+		["name"] = "Tank 7",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638787,
+	},
+	{
+		["name"] = "Tank 8",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638785,
+	},
+	{
+		["name"] = "Tank 9",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638788,
+	},
+	{
+		["name"] = "Tank 10",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638803,
+	},
+	{
+		["name"] = "Tank 11",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638805,
+	},
+	{
+		["name"] = "Tank 12",
+		["goal"] = "primary destroyed",
+		["id"]   = 345638806,
+	},
+	{
+		["name"] = "Tank 13",
+		["goal"] = "primary destroyed",
+		["id"]   = 343541494,
+	},
+	{
+		["name"] = "Tank 14",
+		["goal"] = "primary destroyed",
+		["id"]   = 343541491,
+	},
+	{
+		["name"] = "Tank 15",
+		["goal"] = "primary destroyed",
+		["id"]   = 343541493,
+	},
+	{
+		["name"] = "Tank 16",
+		["goal"] = "primary destroyed",
+		["id"]   = 343541477,
+	},
+	{
+		["name"] = "Tank 17",
+		["goal"] = "primary destroyed",
+		["id"]   = 102793499,
+	},
+	{
+		["name"] = "Tank 18",
+		["goal"] = "primary destroyed",
+		["id"]   = 102793519,
+	},
+	
+}
+desc =
+"Syrian forces have commandeered a large quantity of fuel supplies at Beirut-Rafic Hariri Airport, and are using it to fuel their aircraft, bringing in supplies from Syria. We must destroy the storage facilities to stop the Syrians from using it.\
+\
+Primary Targets: Destroy the fuel storage facilities at Beirut Airport. There are two banks of fuel tanks. The first is at the north end of Runway 17. The second is due east from the main terminal, along the eastern perimeter fence.\
+\
+Recommended Pilots: 4+"

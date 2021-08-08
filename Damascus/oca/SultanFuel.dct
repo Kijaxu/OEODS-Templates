@@ -1,0 +1,58 @@
+objtype = "OCA"
+intel = 5
+cost = 3
+name = "SultanFuel"
+tpldata = {}
+buildings = {
+	{
+		["name"] = "N Tank 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 320438920,
+	},
+	{
+		["name"] = "N Tank 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 320438921,
+	},
+	{
+		["name"] = "N Tank 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 320438922,
+	},
+	{
+		["name"] = "S Tank 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773409,
+	},
+	{
+		["name"] = "S Tank 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773412,
+	},
+	{
+		["name"] = "S Tank 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773413,
+	},
+	{
+		["name"] = "S Tank 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773410,
+	},
+	{
+		["name"] = "S Tank 5",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773411,
+	},
+	{
+		["name"] = "S Tank 6",
+		["goal"] = "primary destroyed",
+		["id"]   = 316773408,
+	},
+}
+desc = "Marj as Sultan Helicopter base serves as a main base for helicopter operations within the Damascus region. Due to the threat posed to our ground forces in upcoming operations, the JFACC has directed it to be neutralized..\
+\
+Primary Targets: Destroy the six fuel tanks on the southern ramp, and the three fuel tanks on the northern ramp IOT neutralise the fuel supply of the airfield.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 0
