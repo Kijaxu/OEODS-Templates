@@ -8,27 +8,27 @@ buildings = {
 	{
 		["name"] = "Hangar 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 186058477,
+		["id"]   = 208864972,
 	},
 	{
 		["name"] = "Hangar 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 186058476,
+		["id"]   = 208864971,
 	},
 	{
 		["name"] = "Hangar 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 186058475,
+		["id"]   = 208864970,
 	},
 	{
 		["name"] = "Hangar 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 184944069,
+		["id"]   = 207193521,
 	},
 	{
 		["name"] = "Hangar 5",
 		["goal"] = "primary destroyed",
-		["id"]   = 184944068,
+		["id"]   = 207193520,
 	},
 
 }
