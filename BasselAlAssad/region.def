@@ -7,6 +7,10 @@ region = {
 			["min"] = 4,
 			["max"] = 7,
 		},
+		["facility"] = {
+			["min"] = 4,
+			["max"] = 6,
+		},
 		["ewr"] = {
 			["min"] = 1,
 			["max"] = 2,
