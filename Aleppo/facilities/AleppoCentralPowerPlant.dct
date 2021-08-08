@@ -1,0 +1,33 @@
+objtype = "facility"						
+name = "AleppoCentralPowerPlant"						
+intel = 5								
+cost = 6								
+coalition = 1								
+tpldata = {}
+exclusion = "AleppoPowerCentral"					
+buildings = {								
+	{
+		["name"] = "Power Plant",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 88443039,				
+	},
+	{
+		["name"] = "Fuel Tank 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 514787200,				
+	},
+	{
+		["name"] = "Fuel Tank 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 514787095,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a power plant in central Aleppo.\
+\
+Primary Targets: Destroy the power plant and the two fuel storage tanks just southwest, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

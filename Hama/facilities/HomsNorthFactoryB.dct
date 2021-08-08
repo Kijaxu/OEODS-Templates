@@ -1,0 +1,42 @@
+objtype = "facility"						
+name = "HomsNorthFactoryB"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}
+exclusion = "HomsFactoryB"						
+buildings = {								
+	{
+		["name"] = "Factory	1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 86116563,				
+	},
+	{
+		["name"] = "Factory 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 176554735,				
+	},
+	{
+		["name"] = "Factory 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 176554730,				
+	},
+	{
+		["name"] = "Factory 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 176554731,				
+	},
+	{
+		["name"] = "Factory 5",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 176554733,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a military steel processing factory in the city of Homs.\
+\
+Primary Targets: Destroy the large building with white and red smoke stacks, and long warehouse just to the south, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

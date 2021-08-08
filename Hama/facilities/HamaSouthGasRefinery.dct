@@ -1,0 +1,36 @@
+objtype = "facility"						
+name = "HamaSouthGasRefinery"						
+intel = 5									
+cost = 6									
+coalition = 1								
+tpldata = {}					
+buildings = {								
+	{
+		["name"] = "Power Plant 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 86147640,				
+	},
+	{
+		["name"] = "Power Plant 2",			
+		["goal"] = "primary destroyed",		
+		["id"]   = 86147611,				
+	},
+	{
+		["name"] = "Refinery 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 179539465,				
+	},
+	{
+		["name"] = "Refinery 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 179539467,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% an oil refinery plant just south of Hama.\
+\
+Primary Targets: Destroy the two large buildings with smoke stacks,  and the two refinery buildings, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

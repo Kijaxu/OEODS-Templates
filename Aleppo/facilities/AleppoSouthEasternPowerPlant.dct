@@ -1,0 +1,33 @@
+objtype = "facility"						
+name = "AleppoSouthEasternPowerPlant"					
+intel = 5									
+cost = 6									
+coalition = 1								
+tpldata = {}
+exclusion = "AleppoEastPower"					
+buildings = {								
+	{
+		["name"] = "Power Plant",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 88179572,				
+	},
+	{
+		["name"] = "Gen Hall 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 119409571,				
+	},
+	{
+		["name"] = "Gen Hall 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 119409595,				
+	},
+}
+desc = 										-- This field is the objective briefing. Details below.
+"%LOCATIONMETHOD% a power plant in south eastern Aleppo.\
+\
+Primary Targets: Destroy the power plant and the two generator halls to the south, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

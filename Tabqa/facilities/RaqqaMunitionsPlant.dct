@@ -1,0 +1,38 @@
+objtype = "facility"						
+name = "RaqqaMunitionsPlant"					
+intel = 5									
+cost = 4								
+coalition = 1							
+tpldata = {}
+exclusion = "RaqqaFactory"				
+buildings = {								
+	{
+		["name"] = "Warehouse 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 118392799,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 118392858,				
+	},
+	{
+		["name"] = "Warehouse 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 118392977,				
+	},
+	{
+		["name"] = "Warehouse 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 118393021,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a munitions plant supplying the Syrian army in the city Raqqa.\
+\
+Primary Targets: Destroy the large warehouse to the north of the complex, and the L shaped building to its east, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

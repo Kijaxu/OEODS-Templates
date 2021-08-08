@@ -1,0 +1,27 @@
+objtype = "facility"						
+name = "HomsNWPower"						
+intel = 5									
+cost = 6									
+coalition = 1								
+tpldata = {}
+exclusion = "HomsWPower"						
+buildings = {								
+	{
+		["name"] = "Power Plant 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 84082704,				
+	},
+	{
+		["name"] = "Factory 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 108365369,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a massive POL site in Homs. This site produces a large percentage of the POL products used by the Syrian Miltary.\
+\
+Primary Targets: Destroy the power plant with red and white smoke stacks, and the large grey building just east of it, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

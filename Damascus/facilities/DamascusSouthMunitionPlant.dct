@@ -1,0 +1,41 @@
+objtype = "facility"						
+name = "DamascusSouthMunitionPlant"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}						
+buildings = {								
+	{
+		["name"] = "Building 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 101581692,				
+	},
+	{
+		["name"] = "Building 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 101581714,				
+	},
+	{
+		["name"] = "Building 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 101581701,				
+	},
+	{
+		["name"] = "Building 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 101581737,				
+	},
+	{
+		["name"] = "Building 5",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 101581739,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian military munition plant in south western Damascus.\
+\
+Primary Targets: Destroy the two large warehouses, one with a light grey roof and one with a black roof, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

@@ -1,0 +1,37 @@
+objtype = "facility"						
+name = "CoastPowerPlant"					
+intel = 5									
+cost = 6									
+coalition = 1							
+tpldata = {}						
+buildings = {								
+	{
+		["name"] = "Plant 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 85950468,				
+	},
+	{
+		["name"] = "Plant 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 85950467,				
+	},
+	{
+		["name"] = "Building 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 113541131,				
+	},
+	{
+		["name"] = "Building 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 113541139,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian power plant just south of the coastal city of Baniyas.\
+\
+Primary Targets: Destroy the two power plants, the large rectangular grey building 200 meters north of the power plant, and the fuel tanks just west. %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

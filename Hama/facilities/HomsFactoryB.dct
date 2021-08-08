@@ -1,0 +1,32 @@
+objtype = "facility"						
+name = "HomsFactoryB"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}
+exclusion = "HomsFactoryA"						
+buildings = {								
+	{
+		["name"] = "Factory	1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 84052932,				
+	},
+	{
+		["name"] = "Factory 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 108201428,				
+	},
+	{
+		["name"] = "Factory 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 108201402,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a large factory producing munitions in the city of Homs.\
+\
+Primary Targets: Destroy the large building with white and red smoke stacks, and the two buildings just to the west, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

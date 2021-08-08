@@ -1,0 +1,27 @@
+objtype = "facility"						
+name = "HomsPOLB"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}
+exclusion = "HomsPOL"						
+buildings = {								
+	{
+		["name"] = "Refinery 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174819334,				
+	},
+	{
+		["name"] = "Refinery 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174819285,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a massive POL site in Homs. This site produces a large percentage of the POL products used by the Syrian Miltary. For obvious reasons it must be shut down.\
+\
+Primary Targets: Destroy both refinery buildings, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

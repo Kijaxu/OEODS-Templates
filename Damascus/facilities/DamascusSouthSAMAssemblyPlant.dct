@@ -1,0 +1,36 @@
+objtype = "facility"						
+name = "DamascusSouthSAMAssemblyPlant"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}						
+buildings = {								
+	{
+		["name"] = "Building 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 82090622,				
+	},
+	{
+		["name"] = "Building 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 101581636,				
+	},
+	{
+		["name"] = "Building 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 101581637,				
+	},
+	{
+		["name"] = "Fuel Tanks 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 101581612,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian military SAM assembly plant west of Damascus.\
+\
+Primary Targets: Destroy the main building with the smoke stacks, the fuel storage tanks just south east, and the two large buildings just northwest, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

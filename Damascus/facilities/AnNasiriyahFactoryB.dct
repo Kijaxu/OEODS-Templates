@@ -1,0 +1,42 @@
+objtype = "facility"						
+name = "AnNasiriyahFactoryB"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}	
+exclusion = "AnNasiriyahFactory"					
+buildings = {								
+	{
+		["name"] = "Building 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 104431620,				
+	},
+	{
+		["name"] = "Building 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 104431619,				
+	},
+	{
+		["name"] = "Building 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 104431634,				
+	},
+	{
+		["name"] = "Building 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 104431635,				
+	},
+	{
+		["name"] = "Building 5",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 104431621,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a factory producing Haddam Sussein bumper stickers just north of Damascus.\
+\
+Primary Targets: Destroy all five large warehouses on the northern part of the complex, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

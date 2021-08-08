@@ -1,0 +1,52 @@
+objtype = "facility"						
+name = "HomsPOLC"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}
+exclusion = "HomsPOL"						
+buildings = {								
+	{
+		["name"] = "Refinery 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174818891,				
+	},
+	{
+		["name"] = "Refinery 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174818896,				
+	},
+	{
+		["name"] = "Refinery 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174818893,				
+	},
+	{
+		["name"] = "Refinery 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174818792,				
+	},
+	{
+		["name"] = "Tank 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174818662,				
+	},
+	{
+		["name"] = "Tank 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174818667,				
+	},
+	{
+		["name"] = "Tank 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 174818668,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a massive POL site in Homs. This site produces a large percentage of the POL products used by the Syrian Miltary. For obvious reasons it must be shut down.\
+\
+Primary Targets: Destroy all four refinery buildings, and the 3 large oil storage tanks just south, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

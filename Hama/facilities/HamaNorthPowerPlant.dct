@@ -1,0 +1,36 @@
+objtype = "facility"						
+name = "HamaNorthPowerPlant"						
+intel = 5									
+cost = 6									
+coalition = 1								
+tpldata = {}					
+buildings = {								
+	{
+		["name"] = "Power Plant 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 86083306,				
+	},
+	{
+		["name"] = "Power Plant 2",			
+		["goal"] = "primary destroyed",		
+		["id"]   = 86083349,				
+	},
+	{
+		["name"] = "Fuel Tank 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 113738277,				
+	},
+	{
+		["name"] = "Fuel Tank 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 113738323,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a natural gas power plant north of Hama.\
+\
+Primary Targets: Destroy the two  power plants and the four black fuel storage tanks just north, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

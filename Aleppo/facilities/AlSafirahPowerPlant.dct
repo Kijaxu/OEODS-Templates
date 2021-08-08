@@ -1,0 +1,23 @@
+objtype = "facility"						
+name = "AlSafirahPowerPlant"					
+intel = 5									
+cost = 6									
+coalition = 1							
+tpldata = {}
+exclusion = "AlSafirahPower"								
+buildings = {								
+	{
+		["name"] = "Power Plant",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 88539143,				
+	},									
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian power plant, powering a large military base.\
+\
+Primary Targets: Destroy the power plant, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
+

@@ -1,0 +1,46 @@
+objtype = "facility"						
+name = "DamascusSouthTextileFactory"						
+intel = 5									
+cost = 4									
+coalition = 1								
+tpldata = {}						
+buildings = {								
+	{
+		["name"] = "Building 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 102303602,				
+	},
+	{
+		["name"] = "Building 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 102303531,				
+	},
+	{
+		["name"] = "Building 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 102303611,				
+	},
+	{
+		["name"] = "Building 4",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 102303610,				
+	},
+	{
+		["name"] = "Building 5",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 102303711,				
+	},
+	{
+		["name"] = "Building 6",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 102303750,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian textile factory in southern Damascus. This factory is producing equipment and supplies for the Syrian Military.\
+\
+Primary Targets: Destroy all three large warehouses in the factory, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+
