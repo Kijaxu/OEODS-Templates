@@ -1,20 +1,20 @@
 objtype = "facility"						
-name = "HamaFuelTankNorthA"					
+name = "HamaFuelTankB"					
 intel = 5									
 cost = 3									
 coalition = 1							
 tpldata = {}
-exclusion = "HamaFuelTankNorth"								
+exclusion = "HamaFuelTankSouth"								
 buildings = {								
 	{
 		["name"] = "Tank 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101942398,				
+		["id"]   = 112067683,				
 	},
 	{
 		["name"] = "Tank 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101942399,				
+		["id"]   = 112067684,				
 	},
 }
 desc = 										

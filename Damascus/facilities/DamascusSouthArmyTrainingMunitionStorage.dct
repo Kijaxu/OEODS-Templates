@@ -8,12 +8,12 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 93126723,				
+		["id"]   = 101548099,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 93126705,				
+		["id"]   = 101548081,				
 	},
 }
 desc = 										

@@ -8,33 +8,28 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103024887,				
+		["id"]   = 188353805,				
 	},
 	{
 		["name"] = "Warehouse 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 167316762,				
+		["id"]   = 188353806,				
 	},
 	{
 		["name"] = "Warehouse 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 167316763,				
+		["id"]   = 188353921,				
 	},
 	{
 		["name"] = "Warehouse 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 167316872,				
-	},
-	{
-		["name"] = "Warehouse 5",				
-		["goal"] = "primary destroyed",		
-		["id"]   = 167316878,				
+		["id"]   = 188353915,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a Syrian train yard shipping supplies up and down the coastline.\
 \
-Primary Targets: Destroy the five large warehouses at the trainyard, %LOCATION%.\
+Primary Targets: Destroy the four large warehouses at the trainyard, just behind the terminal, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

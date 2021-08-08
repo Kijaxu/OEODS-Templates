@@ -9,12 +9,12 @@ buildings = {
 	{
 		["name"] = "Flare Stack",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 104726673,				
+		["id"]   = 116523153,				
 	},
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 104726528,				
+		["id"]   = 116523008,				
 	},
 }
 desc = 										

@@ -8,13 +8,13 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 96010271,				
+		["id"]   = 104431647,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a Syrian military ammo dump just north of Damascus.\
+"%LOCATIONMETHOD% a Syrian military ammo dump in the town of Al Qutayfah, 20 nautical miles northeast of Damascus.\
 \
-Primary Targets: Destroy the warehouse storing ammunition, %LOCATION%.\
+Primary Targets: Destroy the two large black roofed warehouses in the north of the compound, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

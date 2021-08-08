@@ -8,13 +8,18 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 97091584,				
+		["id"]   = 105512960,				
+	},
+	{
+		["name"] = "Warehouse 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 105512963,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a  train yard just east of An Nasiriyah Air Base. Intel indicates this train yard is being used to supply the nearby airbase.\
+"%LOCATIONMETHOD% a train yard just southeast of An Nasiriyah Air Base. Intel indicates this train yard is being used to supply the nearby airbase.\
 \
-Primary Targets: Destroy the large black roofed warehouse, %LOCATION%.\
+Primary Targets: Destroy the two large black roofed warehouses in the north of the compound, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

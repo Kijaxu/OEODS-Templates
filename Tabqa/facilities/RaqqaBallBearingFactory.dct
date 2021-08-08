@@ -9,26 +9,26 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 106528959,				
+		["id"]   = 117409374,				
 	},
 	{
 		["name"] = "Warehouse 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 106528937,				
+		["id"]   = 117409373,				
 	},
 	{
 		["name"] = "Warehouse 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 106528938,				
+		["id"]   = 117409493,				
 	},
 	{
 		["name"] = "Warehouse 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 106528936,				
+		["id"]   = 117409235,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a Syrian ball bearing factory in the city of Raqqa.\
+"%LOCATIONMETHOD% a Syrian ball bearing factory just southwest of Raqqa. It is located on the northern bank of the river.\
 \
 Primary Targets: Destroy the four large warehouses in the south east of the factory, %LOCATION%.\
 \

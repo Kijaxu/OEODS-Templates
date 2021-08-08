@@ -8,28 +8,28 @@ buildings = {
 	{
 		["name"] = "Plant 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 80805892,				
+		["id"]   = 85950468,				
 	},
 	{
 		["name"] = "Plant 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 80805891,				
+		["id"]   = 85950467,				
 	},
 	{
 		["name"] = "Building 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 102334475,				
+		["id"]   = 113541131,				
 	},
 	{
 		["name"] = "Building 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 102334483,				
+		["id"]   = 113541139,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a Syrian power plant on the coast.\
+"%LOCATIONMETHOD% a Syrian power plant just south of the coastal city of Baniyas.\
 \
-Primary Targets: Destroy the two power plants, the grey building to the north, and the two large black fuel storage tanks also north, %LOCATION%.\
+Primary Targets: Destroy the two power plants, the large rectangular grey building 200 meters north of the power plant, and the fuel tanks just west. %LOCATION%.\
 \
 Recommended Pilots: 2+"
 
