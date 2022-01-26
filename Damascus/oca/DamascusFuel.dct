@@ -7,42 +7,42 @@ buildings = {
 	{
 		["name"] = "tank 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 312410649,
+		["id"]   = 314966602,
 	},
 	{
 		["name"] = "tank 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 312410673,
+		["id"]   = 314966588,
 	},
 	{
 		["name"] = "tank 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 312410687,
+		["id"]   = 314966591,
 	},
 	{
 		["name"] = "tank 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 312410698,
+		["id"]   = 314966576,
 	},
 	{
 		["name"] = "tank 5",
 		["goal"] = "primary destroyed",
-		["id"]   = 312410605,
+		["id"]   = 314966577,
 	},
 	{
 		["name"] = "tank 6",
 		["goal"] = "primary destroyed",
-		["id"]   = 312410672,
+		["id"]   = 314966553,
 	},
 	{
 		["name"] = "tank 7",
 		["goal"] = "primary destroyed",
-		["id"]   = 312410684,
+		["id"]   = 314966509,
 	},
 	{
 		["name"] = "tank 8",
 		["goal"] = "primary destroyed",
-		["id"]   = 101351957,
+		["id"]   = 102728213,
 	},
 }
 desc = "Damascus Airport serves as a critical supply node and divert base for Syrian Air Forces in the defence of Damascus. The JFACC has directed that it must be neutralised.\
