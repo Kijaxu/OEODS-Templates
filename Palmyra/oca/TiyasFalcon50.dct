@@ -1,0 +1,9 @@
+objtype = "oca"
+intel = 4
+cost = 2
+desc = "A Syrian Falcon 50 business jet modified for anti-shipping has been spotted at Tiyas Air Base. This aircraft could pose a large threat to our carriers and the JFACC has directed it must be destroyed. The aircraft is currently refueling on the western ramp.\
+\
+Primary Targets: Destroy the Falcon 50 on the ramp.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 1

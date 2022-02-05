@@ -1,0 +1,9 @@
+objtype = "oca"
+intel = 4
+cost = 2
+desc = "An earlier strike mission spotted several MiG-29 Fulcrum fighters being armed up at Kuweires Air Base. These aircraft must be destroyed in order for the Coalition to attain air supremacy.\
+\
+Primary Targets: Destroy all of the MiG-29 Fulcrum fighters at Kuweires Air Base.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 1

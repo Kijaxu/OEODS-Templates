@@ -1,0 +1,9 @@
+objtype = "oca"
+intel = 4
+cost = 2
+desc = "Recon flights spotted an IL-76 Candid cargo transport aircraft on the ramp at Damascus International Airport. The JFACC has directed any Syrian aircraft on the ground should be destroyed.\
+\
+Primary Targets: Destroy the IL-76 Candid cargo aircraft on the ramp.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 1

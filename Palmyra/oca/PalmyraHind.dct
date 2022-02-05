@@ -1,0 +1,10 @@
+objtype = "oca"
+intel = 4
+cost = 2
+exclusion = "PalmyraOCA"
+desc = "Reconnaissance flights have located several Mi-24 attack helicopters on the ground at Palmyra Airport. The JFACC has directed they should be destroyed.\
+\
+Primary Targets: Destroy all of the Mi-24 Hind helicopters on the ground. We believe there are 2-3 of them.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 1

@@ -1,0 +1,9 @@
+objtype = "oca"
+intel = 4
+cost = 2
+desc = "A Syrian Air Force An-26 Curl cargo transport aircraft has been spotted at Al Qusayr Airbase. Destroying Syrian transport aircraft will greatly help to degrade their logistics network.\
+\
+Primary Targets: Destroy the An-26 Curl cargo transport aircraft at Al Qusayr Airbase.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 1

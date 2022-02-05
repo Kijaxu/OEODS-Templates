@@ -1,0 +1,33 @@
+objtype = "OCA"
+intel = 5
+cost = 3
+name = "NasiriyahHangars"
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Hangar 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 165150803,
+	},
+	{
+		["name"] = "Hangar 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 165150802,
+	},
+	{
+		["name"] = "Hangar 3",
+		["goal"] = "primary destroyed",
+		["id"]   = 165150800,
+	},
+	{
+		["name"] = "Hangar 4",
+		["goal"] = "primary destroyed",
+		["id"]   = 165150805,
+	},
+}
+desc = "An Nasiriyah airfield functions as a major fighter base protecting the northern Damascus area. Destroying its hardended aircraft hangars will help the coalition attain air supremacy.\
+\
+Primary Targets: Destroy .\
+\
+Recommended weapons: Pilot discretion."
+coalition = 0
