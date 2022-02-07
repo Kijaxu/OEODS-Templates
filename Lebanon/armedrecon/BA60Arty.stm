@@ -446,18 +446,31 @@ staticTemplate =
                                 {
                                     ["spans"] = 
                                     {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 49089.282220606,
+                                                ["x"] = 130836.25919487,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 49097.857604291,
+                                                ["x"] = 130840.35791735,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
                                     }, -- end of ["spans"]
                                     ["points"] = 
                                     {
                                         [1] = 
                                         {
-                                            ["alt"] = 1072,
+                                            ["alt"] = 81,
                                             ["type"] = "Turning Point",
                                             ["ETA"] = 0,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
-                                            ["y"] = -13269.248757447,
-                                            ["x"] = -200093.25096534,
+                                            ["y"] = 48997.079405686,
+                                            ["x"] = 129925.22731639,
                                             ["ETA_locked"] = true,
                                             ["speed"] = 5.5555555555556,
                                             ["action"] = "Off Road",
@@ -506,17 +519,77 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
                                         ["type"] = "M-109",
-                                        ["unitId"] = 1,
-                                        ["y"] = -13269.248757447,
-                                        ["x"] = -200093.25096534,
-                                        ["name"] = "PRIMARY DESTROYED Paladin 1-1",
-                                        ["heading"] = 4.7123889803847,
+                                        ["unitId"] = 3,
+                                        ["y"] = 48997.079405686,
+                                        ["x"] = 129925.22731639,
+                                        ["name"] = "PRIMARY DESTROYED 1-1",
+                                        ["heading"] = 5.6548667764616,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 1,
+                                        ["y"] = 49038.209421855,
+                                        ["x"] = 129914.79637471,
+                                        ["name"] = "PRIMARY DESTROYED 1-2",
+                                        ["heading"] = 5.6548667764616,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 2,
+                                        ["y"] = 48984.557452013,
+                                        ["x"] = 129885.33594969,
+                                        ["name"] = "PRIMARY DESTROYED 1-3",
+                                        ["heading"] = 5.6548667764616,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 4,
+                                        ["y"] = 49082.936800318,
+                                        ["x"] = 129907.73415706,
+                                        ["name"] = "PRIMARY DESTROYED 1-4",
+                                        ["heading"] = 5.6548667764616,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 5,
+                                        ["y"] = 48974.539889075,
+                                        ["x"] = 129838.11029584,
+                                        ["name"] = "PRIMARY DESTROYED 1-5",
+                                        ["heading"] = 5.6548667764616,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [5]
                                 }, -- end of ["units"]
-                                ["y"] = -13269.248757447,
-                                ["x"] = -200093.25096534,
-                                ["name"] = "PRIMARY DESTROYED Paladin 1",
+                                ["y"] = 48997.079405686,
+                                ["x"] = 129925.22731639,
+                                ["name"] = "PRIMARY DESTROYED 1",
                                 ["start_time"] = 0,
                             }, -- end of [1]
                             [2] = 
@@ -532,20 +605,33 @@ staticTemplate =
                                 {
                                     ["spans"] = 
                                     {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 48952.745831852,
+                                                ["x"] = 130162.64607772,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 48949.448567451,
+                                                ["x"] = 130180.44027805,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
                                     }, -- end of ["spans"]
                                     ["points"] = 
                                     {
                                         [1] = 
                                         {
-                                            ["alt"] = 1072,
+                                            ["alt"] = 81,
                                             ["type"] = "Turning Point",
                                             ["ETA"] = 0,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
-                                            ["y"] = -13266.187123803,
-                                            ["x"] = -200082.94612344,
+                                            ["y"] = 49232.698120738,
+                                            ["x"] = 129917.65366656,
                                             ["ETA_locked"] = true,
-                                            ["speed"] = 5.5555555555556,
+                                            ["speed"] = 4,
                                             ["action"] = "Off Road",
                                             ["task"] = 
                                             {
@@ -554,25 +640,6 @@ staticTemplate =
                                                 {
                                                     ["tasks"] = 
                                                     {
-                                                        [1] = 
-                                                        {
-                                                            ["number"] = 1,
-                                                            ["auto"] = true,
-                                                            ["id"] = "WrappedAction",
-                                                            ["enabled"] = true,
-                                                            ["params"] = 
-                                                            {
-                                                                ["action"] = 
-                                                                {
-                                                                    ["id"] = "EPLRS",
-                                                                    ["params"] = 
-                                                                    {
-                                                                        ["value"] = true,
-                                                                        ["groupId"] = 2,
-                                                                    }, -- end of ["params"]
-                                                                }, -- end of ["action"]
-                                                            }, -- end of ["params"]
-                                                        }, -- end of [1]
                                                     }, -- end of ["tasks"]
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
@@ -591,173 +658,50 @@ staticTemplate =
                                             ["randomTransportable"] = false,
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Excellent",
-                                        ["type"] = "M-109",
-                                        ["unitId"] = 2,
-                                        ["y"] = -13266.187123803,
-                                        ["x"] = -200082.94612344,
-                                        ["name"] = "PRIMARY DESTROYED BMP-1-1",
-                                        ["heading"] = 4.7123889803847,
+                                        ["type"] = "Ural-375 ZU-23",
+                                        ["unitId"] = 6,
+                                        ["y"] = 49232.698120738,
+                                        ["x"] = 129917.65366656,
+                                        ["name"] = "AAA-1",
+                                        ["heading"] = 6.0999635341997,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "Ural-375 ZU-23",
+                                        ["unitId"] = 7,
+                                        ["y"] = 48916.564482014,
+                                        ["x"] = 129736.22044782,
+                                        ["name"] = "AAA-2",
+                                        ["heading"] = 6.0999635341997,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["skill"] = "Excellent",
+                                        ["type"] = "SA-18 Igla manpad",
+                                        ["unitId"] = 8,
+                                        ["y"] = 48940.357249453,
+                                        ["x"] = 130201.8141581,
+                                        ["name"] = "AAA-3",
+                                        ["heading"] = 6.0999635341997,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
                                 }, -- end of ["units"]
-                                ["y"] = -13266.187123803,
-                                ["x"] = -200082.94612344,
-                                ["name"] = "PRIMARY DESTROYED BMP-1",
+                                ["y"] = 49232.698120738,
+                                ["x"] = 129917.65366656,
+                                ["name"] = "AAA",
                                 ["start_time"] = 0,
                             }, -- end of [2]
-                            [3] = 
-                            {
-                                ["visible"] = false,
-                                ["tasks"] = 
-                                {
-                                }, -- end of ["tasks"]
-                                ["uncontrollable"] = false,
-                                ["task"] = "Ground Nothing",
-                                ["taskSelected"] = true,
-                                ["route"] = 
-                                {
-                                    ["spans"] = 
-                                    {
-                                    }, -- end of ["spans"]
-                                    ["points"] = 
-                                    {
-                                        [1] = 
-                                        {
-                                            ["alt"] = 1071,
-                                            ["type"] = "Turning Point",
-                                            ["ETA"] = 0,
-                                            ["alt_type"] = "BARO",
-                                            ["formation_template"] = "",
-                                            ["y"] = -13256.159888812,
-                                            ["x"] = -200072.38512537,
-                                            ["ETA_locked"] = true,
-                                            ["speed"] = 5.5555555555556,
-                                            ["action"] = "Off Road",
-                                            ["task"] = 
-                                            {
-                                                ["id"] = "ComboTask",
-                                                ["params"] = 
-                                                {
-                                                    ["tasks"] = 
-                                                    {
-                                                        [1] = 
-                                                        {
-                                                            ["number"] = 1,
-                                                            ["auto"] = true,
-                                                            ["id"] = "WrappedAction",
-                                                            ["enabled"] = true,
-                                                            ["params"] = 
-                                                            {
-                                                                ["action"] = 
-                                                                {
-                                                                    ["id"] = "EPLRS",
-                                                                    ["params"] = 
-                                                                    {
-                                                                        ["value"] = true,
-                                                                        ["groupId"] = 4,
-                                                                    }, -- end of ["params"]
-                                                                }, -- end of ["action"]
-                                                            }, -- end of ["params"]
-                                                        }, -- end of [1]
-                                                    }, -- end of ["tasks"]
-                                                }, -- end of ["params"]
-                                            }, -- end of ["task"]
-                                            ["speed_locked"] = true,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["groupId"] = 3,
-                                ["hidden"] = false,
-                                ["units"] = 
-                                {
-                                    [1] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "M-109",
-                                        ["unitId"] = 3,
-                                        ["y"] = -13256.159888812,
-                                        ["x"] = -200072.38512537,
-                                        ["name"] = "PRIMARY DESTROYED BMP-3-1",
-                                        ["heading"] = 4.7123889803847,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["y"] = -13256.159888812,
-                                ["x"] = -200072.38512537,
-                                ["name"] = "PRIMARY DESTROYED BMP-3",
-                                ["start_time"] = 0,
-                            }, -- end of [3]
-                            [4] = 
-                            {
-                                ["visible"] = false,
-                                ["tasks"] = 
-                                {
-                                }, -- end of ["tasks"]
-                                ["uncontrollable"] = false,
-                                ["task"] = "Ground Nothing",
-                                ["taskSelected"] = true,
-                                ["route"] = 
-                                {
-                                    ["spans"] = 
-                                    {
-                                    }, -- end of ["spans"]
-                                    ["points"] = 
-                                    {
-                                        [1] = 
-                                        {
-                                            ["alt"] = 1071,
-                                            ["type"] = "Turning Point",
-                                            ["ETA"] = 0,
-                                            ["alt_type"] = "BARO",
-                                            ["formation_template"] = "",
-                                            ["y"] = -13250.413509088,
-                                            ["x"] = -200088.75360094,
-                                            ["ETA_locked"] = true,
-                                            ["speed"] = 5.5555555555556,
-                                            ["action"] = "Off Road",
-                                            ["task"] = 
-                                            {
-                                                ["id"] = "ComboTask",
-                                                ["params"] = 
-                                                {
-                                                    ["tasks"] = 
-                                                    {
-                                                    }, -- end of ["tasks"]
-                                                }, -- end of ["params"]
-                                            }, -- end of ["task"]
-                                            ["speed_locked"] = true,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["groupId"] = 4,
-                                ["hidden"] = false,
-                                ["units"] = 
-                                {
-                                    [1] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "Ural-375",
-                                        ["unitId"] = 4,
-                                        ["y"] = -13250.413509088,
-                                        ["x"] = -200088.75360094,
-                                        ["name"] = "PRIMARY DESTROYED BMP-2-1",
-                                        ["heading"] = 1.4660765716752,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["y"] = -13250.413509088,
-                                ["x"] = -200088.75360094,
-                                ["name"] = "PRIMARY DESTROYED BMP-2",
-                                ["start_time"] = 0,
-                            }, -- end of [4]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                     ["name"] = "CJTF Red",
@@ -800,7 +744,7 @@ staticTemplate =
             }, -- end of ["country"]
         }, -- end of ["red"]
     }, -- end of ["coalition"]
-    ["name"] = "YB67 Arty",
+    ["name"] = "BA60 Arty",
     ["requiredModules"] = 
     {
     }, -- end of ["requiredModules"]

@@ -267,6 +267,26 @@ staticTemplate =
                     ["id"] = 67,
                     ["name"] = "Yugoslavia",
                 }, -- end of [52]
+                [53] = 
+                {
+                    ["id"] = 86,
+                    ["name"] = "Bolivia",
+                }, -- end of [53]
+                [54] = 
+                {
+                    ["id"] = 87,
+                    ["name"] = "Ghana",
+                }, -- end of [54]
+                [55] = 
+                {
+                    ["id"] = 88,
+                    ["name"] = "Nigeria",
+                }, -- end of [55]
+                [56] = 
+                {
+                    ["id"] = 89,
+                    ["name"] = "Peru",
+                }, -- end of [56]
             }, -- end of ["country"]
         }, -- end of ["neutrals"]
         ["blue"] = 
@@ -393,6 +413,21 @@ staticTemplate =
             {
                 [1] = 
                 {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
                     ["id"] = 81,
                     ["vehicle"] = 
                     {
@@ -446,24 +481,6 @@ staticTemplate =
                                                 {
                                                     ["tasks"] = 
                                                     {
-                                                        [1] = 
-                                                        {
-                                                            ["number"] = 1,
-                                                            ["auto"] = false,
-                                                            ["id"] = "FireAtPoint",
-                                                            ["enabled"] = true,
-                                                            ["params"] = 
-                                                            {
-                                                                ["y"] = -34066.348643999,
-                                                                ["expendQtyEnabled"] = false,
-                                                                ["templateId"] = "",
-                                                                ["alt_type"] = 1,
-                                                                ["expendQty"] = 1,
-                                                                ["x"] = -199054.26303126,
-                                                                ["weaponType"] = 1073741822,
-                                                                ["zoneRadius"] = 0,
-                                                            }, -- end of ["params"]
-                                                        }, -- end of [1]
                                                     }, -- end of ["tasks"]
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
@@ -471,7 +488,7 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-                                ["groupId"] = 18,
+                                ["groupId"] = 1,
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
@@ -483,10 +500,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "Grad-URAL",
-                                        ["unitId"] = 42,
+                                        ["unitId"] = 1,
                                         ["y"] = -18471.177250873,
                                         ["x"] = -195633.18913484,
-                                        ["name"] = "PRIMARY DESTROYED Grad-3",
+                                        ["name"] = "PRIMARY DESTROYED Grad-1",
                                         ["heading"] = 5.2010811709431,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [1]
@@ -498,7 +515,7 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "Grad-URAL",
-                                        ["unitId"] = 41,
+                                        ["unitId"] = 2,
                                         ["y"] = -18453.518299016,
                                         ["x"] = -195642.57856609,
                                         ["name"] = "PRIMARY DESTROYED Grad-2",
@@ -513,10 +530,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "Grad-URAL",
-                                        ["unitId"] = 35,
+                                        ["unitId"] = 3,
                                         ["y"] = -18435.859347159,
                                         ["x"] = -195651.96799735,
-                                        ["name"] = "PRIMARY DESTROYED Grad-1",
+                                        ["name"] = "PRIMARY DESTROYED Grad-3",
                                         ["heading"] = 5.2010811709431,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [3]
@@ -534,6 +551,7 @@ staticTemplate =
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
                                 ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -567,7 +585,7 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-                                ["groupId"] = 20,
+                                ["groupId"] = 2,
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
@@ -579,7 +597,7 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "KrAZ6322",
-                                        ["unitId"] = 43,
+                                        ["unitId"] = 4,
                                         ["y"] = -18446.892297588,
                                         ["x"] = -195629.2270712,
                                         ["name"] = "Resuppl-1",
@@ -595,21 +613,6 @@ staticTemplate =
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                     ["name"] = "CJTF Red",
-                }, -- end of [1]
-                [2] = 
-                {
-                    ["id"] = 18,
-                    ["name"] = "Abkhazia",
-                }, -- end of [2]
-                [3] = 
-                {
-                    ["id"] = 24,
-                    ["name"] = "Belarus",
-                }, -- end of [3]
-                [4] = 
-                {
-                    ["id"] = 27,
-                    ["name"] = "China",
                 }, -- end of [4]
                 [5] = 
                 {
@@ -667,5 +670,5 @@ staticTemplate =
     ["theatre"] = "Syria",
     ["desc"] = "Counter Battery systems have detected Syrian MLRS units within grid YB58. Units within this grid have been known to target Kiryat Shmnona with limited effectiveness, and thus must be neutralised. \
 \
-Primary Objectives: Destroy any MLRS launchers within the grid square. ",
+Primary Objectives: Destroy any MLRS launchers within the grid square.",
 } -- end of staticTemplate

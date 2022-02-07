@@ -1,4 +1,0 @@
-objtype = "squadronplayer"
-name = "22TFS"
-coalition = 2
-ato = {"SEAD", "OCA", "STRIKE"}
