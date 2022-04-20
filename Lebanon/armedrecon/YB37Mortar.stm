@@ -267,6 +267,26 @@ staticTemplate =
                     ["id"] = 67,
                     ["name"] = "Yugoslavia",
                 }, -- end of [52]
+                [53] = 
+                {
+                    ["id"] = 86,
+                    ["name"] = "Bolivia",
+                }, -- end of [53]
+                [54] = 
+                {
+                    ["id"] = 87,
+                    ["name"] = "Ghana",
+                }, -- end of [54]
+                [55] = 
+                {
+                    ["id"] = 88,
+                    ["name"] = "Nigeria",
+                }, -- end of [55]
+                [56] = 
+                {
+                    ["id"] = 89,
+                    ["name"] = "Peru",
+                }, -- end of [56]
             }, -- end of ["country"]
         }, -- end of ["neutrals"]
         ["blue"] = 
@@ -393,6 +413,21 @@ staticTemplate =
             {
                 [1] = 
                 {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
                     ["id"] = 81,
                     ["vehicle"] = 
                     {
@@ -433,24 +468,6 @@ staticTemplate =
                                                 {
                                                     ["tasks"] = 
                                                     {
-                                                        [1] = 
-                                                        {
-                                                            ["number"] = 1,
-                                                            ["auto"] = false,
-                                                            ["id"] = "FireAtPoint",
-                                                            ["enabled"] = true,
-                                                            ["params"] = 
-                                                            {
-                                                                ["y"] = -35376.723634084,
-                                                                ["expendQtyEnabled"] = false,
-                                                                ["x"] = -200089.81325484,
-                                                                ["alt_type"] = 1,
-                                                                ["templateId"] = "",
-                                                                ["expendQty"] = 1,
-                                                                ["weaponType"] = 1073741822,
-                                                                ["zoneRadius"] = 0,
-                                                            }, -- end of ["params"]
-                                                        }, -- end of [1]
                                                     }, -- end of ["tasks"]
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
@@ -470,10 +487,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "2B11 mortar",
-                                        ["unitId"] = 3,
+                                        ["unitId"] = 1,
                                         ["y"] = -40809.045308895,
                                         ["x"] = -203088.43507768,
-                                        ["name"] = "PRIMARY DESTROYED Mortars-2",
+                                        ["name"] = "PRIMARY DESTROYED Mortars-1",
                                         ["heading"] = 1.0646508437165,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [1]
@@ -488,7 +505,7 @@ staticTemplate =
                                         ["unitId"] = 2,
                                         ["y"] = -40806.776300751,
                                         ["x"] = -203094.38436017,
-                                        ["name"] = "PRIMARY DESTROYED Mortars-1",
+                                        ["name"] = "PRIMARY DESTROYED Mortars-2",
                                         ["heading"] = 1.0646508437165,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -500,10 +517,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "2B11 mortar",
-                                        ["unitId"] = 1,
+                                        ["unitId"] = 3,
                                         ["y"] = -40804.013400787,
                                         ["x"] = -203100.1864501,
-                                        ["name"] = "PRIMARY DESTROYED Mortars 1",
+                                        ["name"] = "PRIMARY DESTROYED Mortars-3",
                                         ["heading"] = 1.0646508437165,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -567,7 +584,7 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "Ural-4320T",
-                                        ["unitId"] = 5,
+                                        ["unitId"] = 6,
                                         ["y"] = -40819.673732557,
                                         ["x"] = -203111.57688645,
                                         ["name"] = "Other -1",
@@ -582,7 +599,7 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "Ural-4320T",
-                                        ["unitId"] = 6,
+                                        ["unitId"] = 4,
                                         ["y"] = -40819.673732557,
                                         ["x"] = -203111.57688645,
                                         ["name"] = "Other -2",
@@ -597,10 +614,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "Soldier AK",
-                                        ["unitId"] = 8,
+                                        ["unitId"] = 5,
                                         ["y"] = -40812.433961127,
                                         ["x"] = -203088.53035885,
-                                        ["name"] = "Other -4",
+                                        ["name"] = "Other -3",
                                         ["heading"] = 0.59341194567807,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -615,7 +632,7 @@ staticTemplate =
                                         ["unitId"] = 7,
                                         ["y"] = -40809.788018272,
                                         ["x"] = -203095.51974359,
-                                        ["name"] = "Other -3",
+                                        ["name"] = "Other -4",
                                         ["heading"] = 0.59341194567807,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -627,10 +644,10 @@ staticTemplate =
                                         }, -- end of ["transportable"]
                                         ["skill"] = "Average",
                                         ["type"] = "Soldier AK",
-                                        ["unitId"] = 4,
+                                        ["unitId"] = 8,
                                         ["y"] = -40806.673732557,
                                         ["x"] = -203101.74831502,
-                                        ["name"] = "Other 1",
+                                        ["name"] = "Other -5",
                                         ["heading"] = 0.59341194567807,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -643,21 +660,6 @@ staticTemplate =
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                     ["name"] = "CJTF Red",
-                }, -- end of [1]
-                [2] = 
-                {
-                    ["id"] = 18,
-                    ["name"] = "Abkhazia",
-                }, -- end of [2]
-                [3] = 
-                {
-                    ["id"] = 24,
-                    ["name"] = "Belarus",
-                }, -- end of [3]
-                [4] = 
-                {
-                    ["id"] = 27,
-                    ["name"] = "China",
                 }, -- end of [4]
                 [5] = 
                 {
@@ -715,5 +717,5 @@ staticTemplate =
     ["theatre"] = "Syria",
     ["desc"] = "Counter battery fire has detected an insurgent mortar position shelling Kiryat Shmona Airport, %LOCATION%, grid YB37. As Kiryat Shmona is a major Coalition FOB, the JFACC has directed it to be neutralised. \
 \
-Primary Objectives: Destroy any mortars at the site. ",
+Primary Objectives: Destroy any mortars at the site.",
 } -- end of staticTemplate
