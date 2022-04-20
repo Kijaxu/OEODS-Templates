@@ -8,28 +8,28 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 175243280,				
+		["id"]   = 183435280,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 175243276,				
+		["id"]   = 183435276,				
 	},
 	{
 		["name"] = "Building 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 175243277,				
+		["id"]   = 183435277,				
 	},
 	{
 		["name"] = "Building 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 175243279,				
+		["id"]   = 183435279,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a Syrian Military ammunition depot just east of the city of Homs. Homs is where the Syrian Air Defence Academy is based, and the area is likely to be heavily defended by SAMs.\
 \
-Primary Targets: Destroy the long grey roofed warehouse, %LOCATION%.\
+Primary Targets: Destroy the large grey roofed warehouse oriented east-west, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

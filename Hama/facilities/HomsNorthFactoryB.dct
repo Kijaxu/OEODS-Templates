@@ -9,33 +9,33 @@ buildings = {
 	{
 		["name"] = "Factory	1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 86116563,				
+		["id"]   = 88082809,				
 	},
 	{
 		["name"] = "Factory 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 176554735,				
+		["id"]   = 184746734,				
 	},
 	{
 		["name"] = "Factory 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 176554730,				
+		["id"]   = 184746729,				
 	},
 	{
 		["name"] = "Factory 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 176554731,				
+		["id"]   = 184746730,				
 	},
 	{
 		["name"] = "Factory 5",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 176554733,				
+		["id"]   = 184746732,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a military steel processing factory in the city of Homs.\
 \
-Primary Targets: Destroy the large building with white and red smoke stacks, and long warehouse just to the south, %LOCATION%.\
+Primary Targets: Destroy the large building with white and red smoke stacks, and long wide warehouse just to the south, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

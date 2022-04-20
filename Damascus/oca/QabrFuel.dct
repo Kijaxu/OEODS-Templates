@@ -7,12 +7,12 @@ buildings = {
 	{
 		["name"] = "tank 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 318669467,
+		["id"]   = 105677253,
 	},
 	{
 		["name"] = "tank 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 318669397,
+		["id"]   = 105677256,
 	},
 }
 desc = "Qabr as Sitt Helicopter base serves as a main base for helicopter operations within the Damascus region. Due to the threat posed to our ground forces in upcoming operations, the JFACC has directed it to be neutralized.\

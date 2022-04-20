@@ -9,43 +9,43 @@ buildings = {
 	{
 		["name"] = "Refinery 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 388170063,				
+		["id"]   = 417071447,				
 	},
 	{
 		["name"] = "Refinery 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 388170071,				
+		["id"]   = 417071455,				
 	},
 	{
 		["name"] = "Refinery 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174819053,				
+		["id"]   = 183011054,				
 	},
 	{
 		["name"] = "Refinery 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 388170105,				
+		["id"]   = 417071490,				
 	},
 	{
 		["name"] = "Refinery 5",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174819000,				
+		["id"]   = 183010997,				
 	},
 	{
 		["name"] = "Refinery 6",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174818998,				
+		["id"]   = 183010994,				
 	},
 	{
 		["name"] = "Refinery 7",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174819012,				
+		["id"]   = 183011009,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a massive POL site in Homs. This site produces a large percentage of the POL products used by the Syrian Miltary. For obvious reasons it must be shut down.\
 \
-Primary Targets: Destroy all six refinery buildings, %LOCATION%.\
+Primary Targets: Destroy all seven refinery buildings, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

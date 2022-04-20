@@ -9,28 +9,28 @@ buildings = {
 	{
 		["name"] = "Factory	1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 86116085,				
+		["id"]   = 88082282,				
 	},
 	{
 		["name"] = "Factory 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 110036191,				
+		["id"]   = 113575005,				
 	},
 	{
 		["name"] = "Factory 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 110036273,				
+		["id"]   = 113575090,				
 	},
 	{
 		["name"] = "Factory 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 110036066,				
+		["id"]   = 113574877,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a large factory assembling guidance kits for SCUD missiles in the city of Homs.\
 \
-Primary Targets: Destroy the large building with white and red smoke stacks, and the two large warehouses just south, %LOCATION%.\
+Primary Targets: Destroy the large building with white and red smoke stacks, and the three large warehouses just south, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

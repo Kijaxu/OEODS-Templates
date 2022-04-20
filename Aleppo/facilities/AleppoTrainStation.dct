@@ -7,20 +7,20 @@ tpldata = {}
 exclusion = "AleppoTrainyard"					
 buildings = {								
 	{
-		["name"] = "West Building",			
+		["name"] = "North Building",			
 		["goal"] = "primary destroyed",		
-		["id"]   = 202932904,				
+		["id"]   = 215679662,				
 	},
 	{
-		["name"] = "East Building",				
+		["name"] = "South Building",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 202932799,				
+		["id"]   = 215679559,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a trainyard in Aleppo that is moving supplies to their frontline units.\
+"%LOCATIONMETHOD% a trainyard in central Aleppo that is crictical to their logistics infastructure.\
 \
-Primary Targets: Destroy the two weapons storage hangars on the southwestern part of the yard, %LOCATION%.\
+Primary Targets: Destroy the two light grey warehouses with curved roofs at the southern end of the trainyard, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

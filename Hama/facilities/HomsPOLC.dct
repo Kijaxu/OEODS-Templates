@@ -9,37 +9,37 @@ buildings = {
 	{
 		["name"] = "Refinery 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174818891,				
+		["id"]   = 183010890,				
 	},
 	{
 		["name"] = "Refinery 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174818896,				
+		["id"]   = 183010896,				
 	},
 	{
 		["name"] = "Refinery 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174818893,				
+		["id"]   = 183010893,				
 	},
 	{
 		["name"] = "Refinery 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174818792,				
+		["id"]   = 183010792,				
 	},
 	{
 		["name"] = "Tank 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174818662,				
+		["id"]   = 417072393,				
 	},
 	{
 		["name"] = "Tank 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174818667,				
+		["id"]   = 417072458,				
 	},
 	{
 		["name"] = "Tank 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 174818668,				
+		["id"]   = 417072498,				
 	},
 }
 desc = 										

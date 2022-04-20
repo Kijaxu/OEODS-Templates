@@ -8,18 +8,18 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101910716,				
+		["id"]   = 105285825,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101910739,				
+		["id"]   = 105285847,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a Syrian train yard in central Damascus. This train yard is crucial for shipping military supplies and equipment all over Syria.\
 \
-Primary Targets: Destroy the two grey warehouses at the yard, %LOCATION%.\
+Primary Targets: Destroy the two grey warehouses at the yard, they are oriented east-west, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

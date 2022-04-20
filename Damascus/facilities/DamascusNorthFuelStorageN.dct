@@ -8,19 +8,18 @@ buildings = {
 	{
 		["name"] = "Tank 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103580905,				
+		["id"]   = 106988797,				
 	},
 	{
 		["name"] = "Tank 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103580918
-		,				
+		["id"]   = 106988814,			
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% Syrian fuel storage tanks in the northern suburbs of Damascus.\
+"%LOCATIONMETHOD% Syrian oil storage tanks in the northern suburbs of Damascus.\
 \
-Primary Targets: Destroy the large, tall, black fuel tanks, %LOCATION%.\
+Primary Targets: Destroy the large, tall, black oil tanks, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

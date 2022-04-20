@@ -8,28 +8,28 @@ buildings = {
 	{
 		["name"] = "Power Plant 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 86147640,				
+		["id"]   = 88114645,				
 	},
 	{
 		["name"] = "Power Plant 2",			
 		["goal"] = "primary destroyed",		
-		["id"]   = 86147611,				
+		["id"]   = 88114612,				
 	},
 	{
 		["name"] = "Refinery 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 179539465,				
+		["id"]   = 187731424,				
 	},
 	{
 		["name"] = "Refinery 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 179539467,				
+		["id"]   = 187731422,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% an oil refinery plant just south of Hama.\
+"%LOCATIONMETHOD% a large oil refinery plant just south of the city of Hama.\
 \
-Primary Targets: Destroy the two large buildings with smoke stacks,  and the two refinery buildings, %LOCATION%.\
+Primary Targets: Destroy the two large plants with the smoke stacks, and the two refinery buildings just to the west, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

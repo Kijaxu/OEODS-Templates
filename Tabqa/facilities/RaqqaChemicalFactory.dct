@@ -9,28 +9,28 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 118358184,				
+		["id"]   = 123142416,				
 	},
 	{
 		["name"] = "Warehouse 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 118358186,				
+		["id"]   = 123142385,				
 	},
 	{
 		["name"] = "Warehouse 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 118358185,				
+		["id"]   = 123142386,				
 	},
 	{
 		["name"] = "Warehouse 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 118358207,				
+		["id"]   = 123142384,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a Syrian chemical factory just northwest of Raqqa.\
 \
-Primary Targets: Destroy the four large warehouses in the south east of the factory, %LOCATION%.\
+Primary Targets: Destroy the four large warehouses in the south east of the factory, three of the factories are oriented east-west while the last is north-south, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

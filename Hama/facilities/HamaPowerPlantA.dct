@@ -9,13 +9,13 @@ buildings = {
 	{
 		["name"] = "Power Plant 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 86182360,				
+		["id"]   = 88148599,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a power plant in Hama.\
+"%LOCATIONMETHOD% a power plant in the city of Hama.\
 \
-Primary Targets: Destroy the power plant, %LOCATION%.\
+Primary Targets: Destroy the power plant building with the large smoke stacks, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

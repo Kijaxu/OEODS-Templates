@@ -9,21 +9,21 @@ buildings = {
 	{
 		["name"] = "Power Plant",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 88443039,				
+		["id"]   = 90704045,				
 	},
 	{
 		["name"] = "Fuel Tank 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 514787200,				
+		["id"]   = 561940252,				
 	},
 	{
 		["name"] = "Fuel Tank 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 514787095,				
+		["id"]   = 561940357,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a power plant in central Aleppo.\
+"%LOCATIONMETHOD% a natural gas power plant in central Aleppo. The destruction of this plant will severely degrade Syrian operations in the region.\
 \
 Primary Targets: Destroy the power plant and the two fuel storage tanks just southwest, %LOCATION%.\
 \

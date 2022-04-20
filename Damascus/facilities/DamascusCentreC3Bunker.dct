@@ -1,5 +1,5 @@
 objtype = "facility"						
-name = "DamascusCentreC2BHunker"						
+name = "DamascusCentreC3BHunker"						
 intel = 5									
 cost = 5									
 coalition = 1								
@@ -8,18 +8,18 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 152273993,				
+		["id"]   = 349898108,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 324666742,				
+		["id"]   = 160400467,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a Syrian military C3 site in the hills just north of Damascus.\
+"%LOCATIONMETHOD% a Syrian military C3 bunker in the hills just north of Damascus.\
 \
-Primary Targets: Destroy both buildings at the site, %LOCATION%.\
+Primary Targets: Destroy both of the main buildings at the site, both targets are in a revetted area just south-west of a helipad, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

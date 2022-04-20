@@ -6,24 +6,24 @@ coalition = 1
 tpldata = {}
 buildings = {
 	{
-		["name"] = "Warehouse 1",
+		["name"] = "Hangar 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 173344998,
+		["id"]   = 181537022,
 	},
 	{
-		["name"] = "Warehouse 2",
+		["name"] = "Hangar 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 173344999,
+		["id"]   = 181537023,
 	},
 	{
-		["name"] = "Warehouse 3",
+		["name"] = "Hangar 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 173382342,
+		["id"]   = 181574369,
 	},
 	{
-		["name"] = "Warehouse 4",
+		["name"] = "Hangar 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 173382341,
+		["id"]   = 181574370,
 	},
 }
 desc =

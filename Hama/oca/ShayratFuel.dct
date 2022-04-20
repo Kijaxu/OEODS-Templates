@@ -1,0 +1,29 @@
+objtype = "oca"
+name = "ShayratFuel"
+intel = 5
+cost = 3
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Tank 1",
+		["goal"] = "primary destroyed",
+		["id"]   = 401605702,
+	},
+	{
+		["name"] = "Tank 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 401605703,
+	},
+	{
+		["name"] = "Tank 2",
+		["goal"] = "primary destroyed",
+		["id"]   = 401605704,
+	},
+}
+desc =
+"%LOCATIONMETHOD% the main AvGas storage tanks at Shayrat Air base. Destroying them will reduce Syrian Air Capabilities in theater.\
+\
+Primary Targets: Destroy the three fuel tanks at %LOCATION%, on Shayrat Airbase. They are in a revetted area north-east of the eastern end of the runway.\
+\
+Recommended Pilots: 2+"

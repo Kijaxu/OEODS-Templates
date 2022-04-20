@@ -7,47 +7,47 @@ buildings = {
 	{
 		["name"] = "N Tank 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 322994822,
+		["id"]   = 105811415,
 	},
 	{
 		["name"] = "N Tank 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 322994823,
+		["id"]   = 105811416,
 	},
 	{
 		["name"] = "N Tank 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 322994824,
+		["id"]   = 105811417,
 	},
 	{
 		["name"] = "S Tank 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 319329287,
+		["id"]   = 105744212,
 	},
 	{
 		["name"] = "S Tank 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 319329284,
+		["id"]   = 105744166,
 	},
 	{
 		["name"] = "S Tank 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 319329286,
+		["id"]   = 105744115,
 	},
 	{
 		["name"] = "S Tank 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 319329285,
+		["id"]   = 105744054,
 	},
 	{
 		["name"] = "S Tank 5",
 		["goal"] = "primary destroyed",
-		["id"]   = 319329283,
+		["id"]   = 105744020,
 	},
 	{
 		["name"] = "S Tank 6",
 		["goal"] = "primary destroyed",
-		["id"]   = 319329282,
+		["id"]   = 105743981,
 	},
 }
 desc = "Marj as Sultan Helicopter base serves as a main base for helicopter operations within the Damascus region. Due to the threat posed to our ground forces in upcoming operations, the JFACC has directed it to be neutralized..\

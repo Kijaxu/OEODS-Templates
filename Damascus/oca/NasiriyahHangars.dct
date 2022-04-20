@@ -7,22 +7,22 @@ buildings = {
 	{
 		["name"] = "Hangar 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 165150803,
+		["id"]   = 173342802,
 	},
 	{
 		["name"] = "Hangar 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 165150802,
+		["id"]   = 173342803,
 	},
 	{
 		["name"] = "Hangar 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 165150800,
+		["id"]   = 173342800,
 	},
 	{
 		["name"] = "Hangar 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 165150805,
+		["id"]   = 173342805,
 	},
 }
 desc = "An Nasiriyah airfield functions as a major fighter base protecting the northern Damascus area. Destroying its hardended aircraft hangars will help the coalition attain air supremacy.\
