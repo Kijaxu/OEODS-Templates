@@ -8,38 +8,38 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 102303602,				
+		["id"]   = 105678865,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 102303531,				
+		["id"]   = 105678826,				
 	},
 	{
 		["name"] = "Building 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 102303611,				
+		["id"]   = 105678726,				
 	},
 	{
 		["name"] = "Building 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 102303610,				
+		["id"]   = 105678725,				
 	},
 	{
 		["name"] = "Building 5",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 102303711,				
+		["id"]   = 105678717,				
 	},
 	{
 		["name"] = "Building 6",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 102303750,				
+		["id"]   = 105678643,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a Syrian textile factory in southern Damascus. This factory is producing equipment and supplies for the Syrian Military.\
 \
-Primary Targets: Destroy all three large warehouses in the factory, %LOCATION%.\
+Primary Targets: Destroy all three large warehouses in the factory, they are all located in the middle of the complex, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

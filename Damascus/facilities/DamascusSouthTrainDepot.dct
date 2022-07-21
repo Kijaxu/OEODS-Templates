@@ -8,28 +8,28 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101220355,				
+		["id"]   = 104562691,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101220354,				
+		["id"]   = 104562690,				
 	},
 	{
 		["name"] = "Building 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101220353,				
+		["id"]   = 104562689,				
 	},
 	{
 		["name"] = "Building 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101220352,				
+		["id"]   = 104562688,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a Syrian train depot in southern Damacus. This depot stores engines and cars that the Military uses to move supplies.\
 \
-Primary Targets: Destroy all four grey warehouses storing train cars in the south, %LOCATION%.\
+Primary Targets: Destroy all four grey warehouses storing train cars in the south, they are all oriented north-south, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

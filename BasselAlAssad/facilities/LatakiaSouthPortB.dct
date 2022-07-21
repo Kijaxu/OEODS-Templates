@@ -9,18 +9,18 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 115380304,				
+		["id"]   = 119738908,				
 	},
 	{
 		["name"] = "Warehouse 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 115380521,				
+		["id"]   = 119738688,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% several warehouses storing Syrian military raw materials at the Latakia Port.\
 \
-Primary Targets: Destroy the two large warehouses in the southern area of the port, %LOCATION%.\
+Primary Targets: Destroy the two large warehouses in the southern area of the port, the warehouses are 100 meters to the east of the grain elevator, and are oriented east-west, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

@@ -8,18 +8,18 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101548099,				
+		["id"]   = 104923210,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101548081,				
+		["id"]   = 104923192,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% Syrian muniton storage warehouses at the Syrian Army Vehicle Training Grounds in southern Damascus.\
 \
-Primary Targets: Destroy the large grey warehouse, %LOCATION%.\
+Primary Targets: Destroy two large grey long warehouses, they are north end of the complex oriented west-east, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

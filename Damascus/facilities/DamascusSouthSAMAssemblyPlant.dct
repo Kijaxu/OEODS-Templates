@@ -8,26 +8,26 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 82090622,				
+		["id"]   = 83991228,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101581636,				
+		["id"]   = 104956752,				
 	},
 	{
 		["name"] = "Building 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101581637,				
+		["id"]   = 104956754,				
 	},
 	{
 		["name"] = "Fuel Tanks 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101581612,				
+		["id"]   = 104956725,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a Syrian military SAM assembly plant west of Damascus.\
+"%LOCATIONMETHOD% a Syrian military SA-6 Gainful SAM assembly and maintainence plant west of Damascus.\
 \
 Primary Targets: Destroy the main building with the smoke stacks, the fuel storage tanks just south east, and the two large buildings just northwest, %LOCATION%.\
 \

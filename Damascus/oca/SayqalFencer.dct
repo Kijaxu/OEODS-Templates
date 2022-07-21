@@ -1,0 +1,9 @@
+objtype = "oca"
+intel = 4
+cost = 2
+desc = "The JFACC has directed that the Syrian Su-24 Fencer squadron at Sayqal Airbase needs to be destroyed. The aircraft are in hardended aircraft shelters in the center of the airbase.\
+\
+Primary Targets: Destroy all of the Su-24 Fencer aircraft at Sayqal Airbase. Intelligence reports 3-4 aircraft.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 1

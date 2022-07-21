@@ -9,23 +9,23 @@ buildings = {
 	{
 		["name"] = "Power Plant",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 88179572,				
+		["id"]   = 90440618,				
 	},
 	{
 		["name"] = "Gen Hall 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 119409571,				
+		["id"]   = 124291996,				
 	},
 	{
 		["name"] = "Gen Hall 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 119409595,				
+		["id"]   = 124292020,				
 	},
 }
-desc = 										-- This field is the objective briefing. Details below.
-"%LOCATIONMETHOD% a power plant in south eastern Aleppo.\
+desc = 										
+"%LOCATIONMETHOD% a large coal power plant in south eastern Aleppo. This power plant is very important to Syrian operations in the Aleppo region.\
 \
-Primary Targets: Destroy the power plant and the two generator halls to the south, %LOCATION%.\
+Primary Targets: Destroy the power plant building with the smoke stacks and the two generator halls 5 meters to the south. The generator halls are rectangular buildings oriented north-south and have dark grey roofs, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

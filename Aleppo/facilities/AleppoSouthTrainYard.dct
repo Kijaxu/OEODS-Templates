@@ -9,18 +9,18 @@ buildings = {
 	{
 		["name"] = "W Warehouse",				
 		["goal"] = "primary destroyed",	
-		["id"]   = 119408257,				
+		["id"]   = 124290682,				
 	},
 	{
 		["name"] = "E Warehouse",				
 		["goal"] = "primary destroyed",	
-		["id"]   = 119408280,	
+		["id"]   = 124290705,	
 	},	
 }
 desc = 										
 "%LOCATIONMETHOD% a Syrian trainyard in southern Aleppo. Intel indicates this is a central part of their northern supply chain.\
 \
-Primary Targets: Destroy the two warehouses at the trainyard, %LOCATION%.\
+Primary Targets: Destroy the two large grey weapons storage warehouses oriented east-west, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

@@ -7,32 +7,32 @@ buildings = {
 	{
 		["name"] = "tank 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 328269922,
+		["id"]   = 107085984,
 	},
 	{
 		["name"] = "tank 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 328269921,
+		["id"]   = 107085988,
 	},
 	{
 		["name"] = "tank 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 328269923,
+		["id"]   = 107085992,
 	},
 	{
 		["name"] = "tank 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 328270325,
+		["id"]   = 107085938,
 	},
 	{
 		["name"] = "tank 5",
 		["goal"] = "primary destroyed",
-		["id"]   = 328270323,
+		["id"]   = 107085940,
 	},
 	{
 		["name"] = "tank 6",
 		["goal"] = "primary destroyed",
-		["id"]   = 328270324,
+		["id"]   = 107085941,
 	},
 }
 desc = "Al Dumayr Air Base is a critical airfield in the Syrian Air Force's defence of Damascus. The JFACC has directed that it must be neutralised.\

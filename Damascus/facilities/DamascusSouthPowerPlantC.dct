@@ -9,23 +9,23 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 82056238,				
+		["id"]   = 83956862,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101680608,				
+		["id"]   = 105055737,				
 	},
 	{
 		["name"] = "Building 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 101680595,				
+		["id"]   = 105055724,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a Syrian power plant in southern Damascus.\
+"%LOCATIONMETHOD% a Syrian coal power plant in southern Damascus.\
 \
-Primary Targets: Destroy the power plant building with the smoke stacks, and the two generator buildings just west, %LOCATION%.\
+Primary Targets: Destroy the power plant building with the smoke stacks, and the support buildings just to the west, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

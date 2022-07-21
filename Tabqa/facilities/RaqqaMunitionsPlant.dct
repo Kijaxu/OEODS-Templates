@@ -9,28 +9,33 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 118392799,				
+		["id"]   = 123177758,				
 	},
 	{
 		["name"] = "Warehouse 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 118392858,				
+		["id"]   = 123177806,				
 	},
 	{
 		["name"] = "Warehouse 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 118392977,				
+		["id"]   = 211030011,				
 	},
 	{
 		["name"] = "Warehouse 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 118393021,				
+		["id"]   = 123177934,				
+	},
+	{
+		["name"] = "Warehouse 5",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 123177975,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a munitions plant supplying the Syrian army in the city Raqqa.\
+"%LOCATIONMETHOD% a munitions plant supplying the Syrian army in the city of Raqqa.\
 \
-Primary Targets: Destroy the large warehouse to the north of the complex, and the L shaped building to its east, %LOCATION%.\
+Primary Targets: Destroy the two large grey warehouses oriented north-south, and the three warehouses forming a U shape oriented north. All targets are in the north end of the factory, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

@@ -8,23 +8,23 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 107741195,				
+		["id"]   = 111280145,				
 	},
 	{
 		["name"] = "Warehouse 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 107741189,				
+		["id"]   = 111280139,				
 	},
 	{
 		["name"] = "Warehouse 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 107741188,				
+		["id"]   = 111280138,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a large steel factory in the city of Palmyra.\
 \
-Primary Targets: Destroy the two large warhouses with black roofs in the centre of the factory, %LOCATION%.\
+Primary Targets: Destroy the three large warhouses with black roofs in the centre of the factory, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

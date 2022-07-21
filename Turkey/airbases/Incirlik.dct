@@ -3,11 +3,12 @@ name = "Incirlik"
 coalition = 2
 subordinates = {
 	"IncirlikABDefenses",
-	"22TFS",
+	"421TFS",
 	"58TFS",
 	"3SQN",
 	"74FS",
 	"71FS",
+	"9SQN",
 }
 desc = "Incirlik Airbase"
 recoverytype = "land"

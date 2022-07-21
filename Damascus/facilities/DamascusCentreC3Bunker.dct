@@ -1,0 +1,26 @@
+objtype = "facility"						
+name = "DamascusCentreC3BHunker"						
+intel = 5									
+cost = 5									
+coalition = 1								
+tpldata = {}						
+buildings = {								
+	{
+		["name"] = "Building 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 349898108,				
+	},
+	{
+		["name"] = "Building 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 160400467,				
+	},
+}
+desc = 										
+"%LOCATIONMETHOD% a Syrian military C3 bunker in the hills just north of Damascus.\
+\
+Primary Targets: Destroy both of the main buildings at the site, both targets are in a revetted area just south-west of a helipad, %LOCATION%.\
+\
+Recommended Pilots: 2+"
+
+

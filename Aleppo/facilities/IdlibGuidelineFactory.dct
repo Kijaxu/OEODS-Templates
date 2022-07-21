@@ -9,33 +9,33 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 197198561,				
+		["id"]   = 208372449,				
 	},
 	{
 		["name"] = "Warehouse 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 116850726,				
+		["id"]   = 121375080,				
 	},
 	{
 		["name"] = "Warehouse 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 116850720,				
+		["id"]   = 121375073,				
 	},
 	{
 		["name"] = "Fuel Tank 1",				
 		["goal"] = "secondary destroyed",		
-		["id"]   = 116850770,				
+		["id"]   = 121375131,				
 	},
 	{
 		["name"] = "Fuel Tank 2",				
 		["goal"] = "secondary destroyed",		
-		["id"]   = 116850782,				
+		["id"]   = 121375146,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a Syrian military SA-2 Guideline assembly plant.\
+"%LOCATIONMETHOD% a Syrian military SA-2 Guideline missile assembly plant in the city of Idlib.\
 \
-Primary Targets: Destroy the three large warehouses in the centre of the plant, %LOCATION%.\
+Primary Targets: Destroy the three large warehouses in the centre of the plant. These buildings roughly resemble a U shape facing north. %LOCATION%.\
 \
 Secondary Targets: Destroy the four tall, black, fuel tanks on the east side.\
 \

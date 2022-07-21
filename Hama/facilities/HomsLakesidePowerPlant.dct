@@ -9,12 +9,12 @@ buildings = {
 	{
 		["name"] = "Power Plant 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 83984385,				
+		["id"]   = 85852161,				
 	},
 	{
 		["name"] = "Power Plant 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 83984384,				
+		["id"]   = 85852160,				
 	},
 }
 desc = 										

@@ -9,22 +9,22 @@ buildings = {
 	{
 		["name"] = "Factory 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 82839039,				
+		["id"]   = 84706458,				
 	},
 	{
 		["name"] = "Factory 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103612433,				
+		["id"]   = 106989884,				
 	},
 	{
 		["name"] = "Factory 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103582025,				
+		["id"]   = 106989938,				
 	},
 	{
 		["name"] = "Factory 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103581977,				
+		["id"]   = 107020301,				
 	},
 }
 desc = 										

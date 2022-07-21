@@ -9,28 +9,28 @@ buildings = {
 	{
 		["name"] = "Building 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 104431622,				
+		["id"]   = 107905030,				
 	},
 	{
 		["name"] = "Building 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 104431623,				
+		["id"]   = 107905031,				
 	},
 	{
 		["name"] = "Building 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 104431640,				
+		["id"]   = 107905060,				
 	},
 	{
 		["name"] = "Building 4",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 104431643,				
+		["id"]   = 107905057,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% a Syrian ball bearing factory just north of Damascus.\
 \
-Primary Targets: Destroy both large grey warehouses, and the L shaped building just east, %LOCATION%.\
+Primary Targets: Destroy both large grey warehouses, and the two buildings forming a reverse L just east, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

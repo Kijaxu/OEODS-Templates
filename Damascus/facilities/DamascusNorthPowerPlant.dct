@@ -8,21 +8,21 @@ buildings = {
 	{
 		["name"] = "Power Plant 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 82806372,				
+		["id"]   = 84673807,				
 	},
 	{
 		["name"] = "Tank 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103485866,				
+		["id"]   = 106893725,				
 	},
 	{
 		["name"] = "Tank 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103485876,				
+		["id"]   = 106893735,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a power plant in northern Damascus.\
+"%LOCATIONMETHOD% a natural gas power plant in northern Damascus. Destroying this plant will have massive effects on the Syrians ability to wage war. The JFACC has directed it to be targeted.\
 \
 Primary Targets: Destroy the power plant building with the red and white smoke stacks, and the fuel storage tanks just south, %LOCATION%.\
 \

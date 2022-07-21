@@ -8,32 +8,32 @@ buildings = {
 	{
 		["name"] = "Cluster 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 120455169,
+		["id"]   = 224526345,
 	},
 	{
 		["name"] = "Cluster 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 207192072,
+		["id"]   = 224526343,
 	},
 	{
 		["name"] = "Cluster 3",
 		["goal"] = "primary destroyed",
-		["id"]   = 207192071,
+		["id"]   = 224526344,
 	},
 	{
 		["name"] = "Cluster 4",
 		["goal"] = "primary destroyed",
-		["id"]   = 207192073,
+		["id"]   = 127467521,
 	},
 	{
 		["name"] = "South 1",
 		["goal"] = "primary destroyed",
-		["id"]   = 207192075,
+		["id"]   = 224526342,
 	},
 	{
 		["name"] = "South 2",
 		["goal"] = "primary destroyed",
-		["id"]   = 207192070,
+		["id"]   = 224526347,
 	},
 }
 desc =

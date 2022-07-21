@@ -1,0 +1,10 @@
+objtype = "oca"
+intel = 4
+cost = 2
+exclusion = "PalmyraOCA"
+desc = "Reconnaissance flights have located several MiG-21 Fishbed figthers on the ground at Palmyra Airport. The JFACC has directed they should be destroyed.\
+\
+Primary Targets: Destroy all of the MiG-21 Fishbed fighters on the ground. We believe there are 2-4.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 1

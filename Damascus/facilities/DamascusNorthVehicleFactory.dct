@@ -9,23 +9,38 @@ buildings = {
 	{
 		["name"] = "Factory 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 82840701,				
+		["id"]   = 84708642,				
 	},
 	{
 		["name"] = "Factory 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103614662,				
+		["id"]   = 107022583,				
 	},
 	{
 		["name"] = "Factory 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 103614667,				
+		["id"]   = 107022578,				
+	},
+	{
+		["name"] = "Fuel Tank 1",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 357827229,				
+	},
+	{
+		["name"] = "Fuel Tank 2",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 357827231,				
+	},
+	{
+		["name"] = "Fuel Tank 3",				
+		["goal"] = "primary destroyed",		
+		["id"]   = 357827230,				
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a plant producing and maintaining armoured vehicles for the Syrian Army in northern Damascus.\
+"%LOCATIONMETHOD% a plant in northern Damascus producing and maintaining armoured vehicles for the Syrian Army.\
 \
-Primary Targets: Destroy, %LOCATION%.\
+Primary Targets: Destroy the large plant building with the smoke stacks, the two long buildings oriented north-south, and the three liquid storage tanks just south. %LOCATION%.\
 \
 Recommended Pilots: 2+"
 

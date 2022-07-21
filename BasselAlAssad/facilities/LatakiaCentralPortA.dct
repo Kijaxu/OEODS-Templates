@@ -9,23 +9,23 @@ buildings = {
 	{
 		["name"] = "Warehouse 1",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 115412878,				
+		["id"]   = 119771154,				
 	},
 	{
 		["name"] = "Warehouse 2",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 115412392,				
+		["id"]   = 119770660,				
 	},
 	{
 		["name"] = "Warehouse 3",				
 		["goal"] = "primary destroyed",		
-		["id"]   = 115411920,				
+		["id"]   = 119770172,				
 	},
 }
 desc = 										
 "%LOCATIONMETHOD% several warehouses storing Syrian military vehicles at the Latakia Port.\
 \
-Primary Targets: Destroy the three large warehouses in the centre of the port, %LOCATION%.\
+Primary Targets: Destroy the three large warehouses in the centre of the port, the warehouses are right on the water and orinted north-south, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 
