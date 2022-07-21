@@ -25,6 +25,15 @@ players = {
 	"653SQN - Colt 6-2",
 	"653SQN - Colt 6-3",
 	"653SQN - Colt 6-4",
+	"653SQN - Colt 6-4",
+	"2SQN17CAV - Palehorse 7-1",
+	"2SQN17CAV - Palehorse 7-2",
+	"2SQN17CAV - Palehorse 7-3",
+	"2SQN17CAV - Palehorse 7-4",
+	"2SQN17CAV - Palehorse 7-5",
+	"2SQN17CAV - Palehorse 7-6",
+	"2SQN17CAV - Palehorse 7-7",
+	"2SQN17CAV - Palehorse 7-8",
 }
 desc = "Kiryat Shmona Helicopter Base"
 recoverytype = "land"

@@ -8,6 +8,7 @@ subordinates = {
 	"3SQN",
 	"74FS",
 	"71FS",
+	"9SQN",
 }
 desc = "Incirlik Airbase"
 recoverytype = "land"
