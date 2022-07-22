@@ -1,0 +1,10 @@
+objtype = "airbase"
+name = "Palmyra"
+coalition = 1
+subordinates = {
+	"PalmyraAirbaseDefenses",
+}
+desc = "Palmyra"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20
