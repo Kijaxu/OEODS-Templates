@@ -2,8 +2,6 @@ staticTemplate =
 {
     ["coalition"] = 
     {
-<<<<<<< HEAD
-=======
         ["blue"] = 
         {
             ["name"] = "blue",
@@ -81,7 +79,6 @@ staticTemplate =
                 }, -- end of [14]
             }, -- end of ["country"]
         }, -- end of ["blue"]
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
         ["neutrals"] = 
         {
             ["name"] = "neutrals",
@@ -89,445 +86,6 @@ staticTemplate =
             {
                 [1] = 
                 {
-<<<<<<< HEAD
-                    ["id"] = 1,
-                    ["name"] = "Ukraine",
-                }, -- end of [1]
-                [2] = 
-                {
-                    ["id"] = 2,
-                    ["name"] = "USA",
-                }, -- end of [2]
-                [3] = 
-                {
-                    ["id"] = 3,
-                    ["name"] = "Turkey",
-                }, -- end of [3]
-                [4] = 
-                {
-                    ["id"] = 4,
-                    ["name"] = "UK",
-                }, -- end of [4]
-                [5] = 
-                {
-                    ["id"] = 5,
-                    ["name"] = "France",
-                }, -- end of [5]
-                [6] = 
-                {
-                    ["id"] = 6,
-                    ["name"] = "Germany",
-                }, -- end of [6]
-                [7] = 
-                {
-                    ["id"] = 7,
-                    ["name"] = "USAF Aggressors",
-                }, -- end of [7]
-                [8] = 
-                {
-                    ["id"] = 8,
-                    ["name"] = "Canada",
-                }, -- end of [8]
-                [9] = 
-                {
-                    ["id"] = 9,
-                    ["name"] = "Spain",
-                }, -- end of [9]
-                [10] = 
-                {
-                    ["id"] = 10,
-                    ["name"] = "The Netherlands",
-                }, -- end of [10]
-                [11] = 
-                {
-                    ["id"] = 11,
-                    ["name"] = "Belgium",
-                }, -- end of [11]
-                [12] = 
-                {
-                    ["id"] = 12,
-                    ["name"] = "Norway",
-                }, -- end of [12]
-                [13] = 
-                {
-                    ["id"] = 13,
-                    ["name"] = "Denmark",
-                }, -- end of [13]
-                [14] = 
-                {
-                    ["id"] = 15,
-                    ["name"] = "Israel",
-                }, -- end of [14]
-                [15] = 
-                {
-                    ["id"] = 16,
-                    ["name"] = "Georgia",
-                }, -- end of [15]
-                [16] = 
-                {
-                    ["id"] = 17,
-                    ["name"] = "Insurgents",
-                }, -- end of [16]
-                [17] = 
-                {
-                    ["id"] = 18,
-                    ["name"] = "Abkhazia",
-                }, -- end of [17]
-                [18] = 
-                {
-                    ["id"] = 19,
-                    ["name"] = "South Ossetia",
-                }, -- end of [18]
-                [19] = 
-                {
-                    ["id"] = 20,
-                    ["name"] = "Italy",
-                }, -- end of [19]
-                [20] = 
-                {
-                    ["id"] = 21,
-                    ["name"] = "Australia",
-                }, -- end of [20]
-                [21] = 
-                {
-                    ["id"] = 22,
-                    ["name"] = "Switzerland",
-                }, -- end of [21]
-                [22] = 
-                {
-                    ["id"] = 23,
-                    ["name"] = "Austria",
-                }, -- end of [22]
-                [23] = 
-                {
-                    ["id"] = 24,
-                    ["name"] = "Belarus",
-                }, -- end of [23]
-                [24] = 
-                {
-                    ["id"] = 25,
-                    ["name"] = "Bulgaria",
-                }, -- end of [24]
-                [25] = 
-                {
-                    ["id"] = 26,
-                    ["name"] = "Czech Republic",
-                }, -- end of [25]
-                [26] = 
-                {
-                    ["id"] = 27,
-                    ["name"] = "China",
-                }, -- end of [26]
-                [27] = 
-                {
-                    ["id"] = 28,
-                    ["name"] = "Croatia",
-                }, -- end of [27]
-                [28] = 
-                {
-                    ["id"] = 29,
-                    ["name"] = "Egypt",
-                }, -- end of [28]
-                [29] = 
-                {
-                    ["id"] = 30,
-                    ["name"] = "Finland",
-                }, -- end of [29]
-                [30] = 
-                {
-                    ["id"] = 31,
-                    ["name"] = "Greece",
-                }, -- end of [30]
-                [31] = 
-                {
-                    ["id"] = 32,
-                    ["name"] = "Hungary",
-                }, -- end of [31]
-                [32] = 
-                {
-                    ["id"] = 33,
-                    ["name"] = "India",
-                }, -- end of [32]
-                [33] = 
-                {
-                    ["id"] = 34,
-                    ["name"] = "Iran",
-                }, -- end of [33]
-                [34] = 
-                {
-                    ["id"] = 35,
-                    ["name"] = "Iraq",
-                }, -- end of [34]
-                [35] = 
-                {
-                    ["id"] = 36,
-                    ["name"] = "Japan",
-                }, -- end of [35]
-                [36] = 
-                {
-                    ["id"] = 37,
-                    ["name"] = "Kazakhstan",
-                }, -- end of [36]
-                [37] = 
-                {
-                    ["id"] = 38,
-                    ["name"] = "North Korea",
-                }, -- end of [37]
-                [38] = 
-                {
-                    ["id"] = 39,
-                    ["name"] = "Pakistan",
-                }, -- end of [38]
-                [39] = 
-                {
-                    ["id"] = 40,
-                    ["name"] = "Poland",
-                }, -- end of [39]
-                [40] = 
-                {
-                    ["id"] = 41,
-                    ["name"] = "Romania",
-                }, -- end of [40]
-                [41] = 
-                {
-                    ["id"] = 42,
-                    ["name"] = "Saudi Arabia",
-                }, -- end of [41]
-                [42] = 
-                {
-                    ["id"] = 43,
-                    ["name"] = "Serbia",
-                }, -- end of [42]
-                [43] = 
-                {
-                    ["id"] = 44,
-                    ["name"] = "Slovakia",
-                }, -- end of [43]
-                [44] = 
-                {
-                    ["id"] = 45,
-                    ["name"] = "South Korea",
-                }, -- end of [44]
-                [45] = 
-                {
-                    ["id"] = 46,
-                    ["name"] = "Sweden",
-                }, -- end of [45]
-                [46] = 
-                {
-                    ["id"] = 48,
-                    ["name"] = "Yemen",
-                }, -- end of [46]
-                [47] = 
-                {
-                    ["id"] = 49,
-                    ["name"] = "Vietnam",
-                }, -- end of [47]
-                [48] = 
-                {
-                    ["id"] = 50,
-                    ["name"] = "Venezuela",
-                }, -- end of [48]
-                [49] = 
-                {
-                    ["id"] = 51,
-                    ["name"] = "Tunisia",
-                }, -- end of [49]
-                [50] = 
-                {
-                    ["id"] = 52,
-                    ["name"] = "Thailand",
-                }, -- end of [50]
-                [51] = 
-                {
-                    ["id"] = 53,
-                    ["name"] = "Sudan",
-                }, -- end of [51]
-                [52] = 
-                {
-                    ["id"] = 54,
-                    ["name"] = "Philippines",
-                }, -- end of [52]
-                [53] = 
-                {
-                    ["id"] = 55,
-                    ["name"] = "Morocco",
-                }, -- end of [53]
-                [54] = 
-                {
-                    ["id"] = 56,
-                    ["name"] = "Mexico",
-                }, -- end of [54]
-                [55] = 
-                {
-                    ["id"] = 57,
-                    ["name"] = "Malaysia",
-                }, -- end of [55]
-                [56] = 
-                {
-                    ["id"] = 58,
-                    ["name"] = "Libya",
-                }, -- end of [56]
-                [57] = 
-                {
-                    ["id"] = 59,
-                    ["name"] = "Jordan",
-                }, -- end of [57]
-                [58] = 
-                {
-                    ["id"] = 60,
-                    ["name"] = "Indonesia",
-                }, -- end of [58]
-                [59] = 
-                {
-                    ["id"] = 61,
-                    ["name"] = "Honduras",
-                }, -- end of [59]
-                [60] = 
-                {
-                    ["id"] = 62,
-                    ["name"] = "Ethiopia",
-                }, -- end of [60]
-                [61] = 
-                {
-                    ["id"] = 63,
-                    ["name"] = "Chile",
-                }, -- end of [61]
-                [62] = 
-                {
-                    ["id"] = 64,
-                    ["name"] = "Brazil",
-                }, -- end of [62]
-                [63] = 
-                {
-                    ["id"] = 65,
-                    ["name"] = "Bahrain",
-                }, -- end of [63]
-                [64] = 
-                {
-                    ["id"] = 66,
-                    ["name"] = "Third Reich",
-                }, -- end of [64]
-                [65] = 
-                {
-                    ["id"] = 67,
-                    ["name"] = "Yugoslavia",
-                }, -- end of [65]
-                [66] = 
-                {
-                    ["id"] = 68,
-                    ["name"] = "USSR",
-                }, -- end of [66]
-                [67] = 
-                {
-                    ["id"] = 69,
-                    ["name"] = "Italian Social Republic",
-                }, -- end of [67]
-                [68] = 
-                {
-                    ["id"] = 70,
-                    ["name"] = "Algeria",
-                }, -- end of [68]
-                [69] = 
-                {
-                    ["id"] = 71,
-                    ["name"] = "Kuwait",
-                }, -- end of [69]
-                [70] = 
-                {
-                    ["id"] = 72,
-                    ["name"] = "Qatar",
-                }, -- end of [70]
-                [71] = 
-                {
-                    ["id"] = 73,
-                    ["name"] = "Oman",
-                }, -- end of [71]
-                [72] = 
-                {
-                    ["id"] = 74,
-                    ["name"] = "United Arab Emirates",
-                }, -- end of [72]
-                [73] = 
-                {
-                    ["id"] = 75,
-                    ["name"] = "South Africa",
-                }, -- end of [73]
-                [74] = 
-                {
-                    ["id"] = 76,
-                    ["name"] = "Cuba",
-                }, -- end of [74]
-                [75] = 
-                {
-                    ["id"] = 77,
-                    ["name"] = "Portugal",
-                }, -- end of [75]
-                [76] = 
-                {
-                    ["id"] = 78,
-                    ["name"] = "GDR",
-                }, -- end of [76]
-                [77] = 
-                {
-                    ["id"] = 79,
-                    ["name"] = "Lebanon",
-                }, -- end of [77]
-                [78] = 
-                {
-                    ["id"] = 80,
-                    ["name"] = "CJTF Blue",
-                }, -- end of [78]
-                [79] = 
-                {
-                    ["id"] = 82,
-                    ["name"] = "UN",
-                }, -- end of [79]
-                [80] = 
-                {
-                    ["id"] = 83,
-                    ["name"] = "Argentina",
-                }, -- end of [80]
-                [81] = 
-                {
-                    ["id"] = 84,
-                    ["name"] = "Cyprus",
-                }, -- end of [81]
-                [82] = 
-                {
-                    ["id"] = 85,
-                    ["name"] = "Slovenia",
-                }, -- end of [82]
-                [83] = 
-                {
-                    ["id"] = 86,
-                    ["name"] = "Bolivia",
-                }, -- end of [83]
-                [84] = 
-                {
-                    ["id"] = 87,
-                    ["name"] = "Ghana",
-                }, -- end of [84]
-                [85] = 
-                {
-                    ["id"] = 88,
-                    ["name"] = "Nigeria",
-                }, -- end of [85]
-                [86] = 
-                {
-                    ["id"] = 89,
-                    ["name"] = "Peru",
-                }, -- end of [86]
-            }, -- end of ["country"]
-        }, -- end of ["neutrals"]
-        ["blue"] = 
-        {
-            ["name"] = "blue",
-            ["country"] = 
-            {
-            }, -- end of ["country"]
-        }, -- end of ["blue"]
-=======
                     ["id"] = 18,
                     ["name"] = "Abkhazia",
                 }, -- end of [1]
@@ -883,7 +441,6 @@ staticTemplate =
                 }, -- end of [71]
             }, -- end of ["country"]
         }, -- end of ["neutrals"]
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
         ["red"] = 
         {
             ["name"] = "red",
@@ -891,14 +448,11 @@ staticTemplate =
             {
                 [1] = 
                 {
-<<<<<<< HEAD
-=======
                     ["id"] = 27,
                     ["name"] = "China",
                 }, -- end of [1]
                 [2] = 
                 {
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                     ["id"] = 81,
                     ["vehicle"] = 
                     {
@@ -912,10 +466,7 @@ staticTemplate =
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
                                 ["task"] = "Ground Nothing",
-<<<<<<< HEAD
-=======
                                 ["taskSelected"] = true,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -949,29 +500,15 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-<<<<<<< HEAD
-                                ["groupId"] = 23,
-=======
                                 ["groupId"] = 19,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
                                     [1] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 89,
-=======
                                         ["type"] = "ZSU-23-4 Shilka",
                                         ["unitId"] = 80,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 48673.826152321,
                                         ["x"] = -182030.37741293,
                                         ["name"] = "AssadAAA-16-1",
@@ -980,19 +517,9 @@ staticTemplate =
                                     }, -- end of [1]
                                     [2] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 90,
-=======
                                         ["type"] = "ZSU-23-4 Shilka",
                                         ["unitId"] = 78,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 49951.683518249,
                                         ["x"] = -183387.90939944,
                                         ["name"] = "AssadAAA-16-2",
@@ -1001,19 +528,9 @@ staticTemplate =
                                     }, -- end of [2]
                                     [3] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 91,
-=======
                                         ["type"] = "ZSU-23-4 Shilka",
                                         ["unitId"] = 79,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51748.119728851,
                                         ["x"] = -183195.28337271,
                                         ["name"] = "AssadAAA-16-3",
@@ -1022,19 +539,9 @@ staticTemplate =
                                     }, -- end of [3]
                                     [4] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 92,
-=======
                                         ["type"] = "ZSU-23-4 Shilka",
                                         ["unitId"] = 81,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51950.081814585,
                                         ["x"] = -178336.44001206,
                                         ["name"] = "AssadAAA-16-4",
@@ -1043,19 +550,9 @@ staticTemplate =
                                     }, -- end of [4]
                                     [5] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 93,
-=======
                                         ["type"] = "ZSU-23-4 Shilka",
                                         ["unitId"] = 82,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 53288.7563655,
                                         ["x"] = -181085.75797795,
                                         ["name"] = "AssadAAA-16-5",
@@ -1110,34 +607,15 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-<<<<<<< HEAD
-                                ["groupId"] = 27,
-=======
                                 ["groupId"] = 20,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
                                     [1] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["livery_id"] = "summer",
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 103,
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 86,
                                         ["skill"] = "Excellent",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50904.027869863,
                                         ["x"] = -182964.96119393,
                                         ["name"] = "AssadAAA-8-1",
@@ -1146,23 +624,9 @@ staticTemplate =
                                     }, -- end of [1]
                                     [2] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 104,
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 84,
                                         ["skill"] = "Excellent",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50978.25922108,
                                         ["x"] = -182923.81576468,
                                         ["name"] = "AssadAAA-8-2",
@@ -1171,23 +635,9 @@ staticTemplate =
                                     }, -- end of [2]
                                     [3] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 105,
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 85,
                                         ["skill"] = "Excellent",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51015.885864912,
                                         ["x"] = -182877.81879324,
                                         ["name"] = "AssadAAA-8-3",
@@ -1196,23 +646,9 @@ staticTemplate =
                                     }, -- end of [3]
                                     [4] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 106,
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 87,
                                         ["skill"] = "Excellent",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51037.038793995,
                                         ["x"] = -182813.57127604,
                                         ["name"] = "AssadAAA-8-4",
@@ -1221,23 +657,9 @@ staticTemplate =
                                     }, -- end of [4]
                                     [5] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 107,
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 88,
                                         ["skill"] = "Excellent",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51076.34400616,
                                         ["x"] = -182780.42102801,
                                         ["name"] = "AssadAAA-8-5",
@@ -1246,31 +668,15 @@ staticTemplate =
                                     }, -- end of [5]
                                     [6] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 108,
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 83,
                                         ["skill"] = "Excellent",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51119.030319749,
                                         ["x"] = -182760.03916298,
                                         ["name"] = "AssadAAA-8-6",
                                         ["heading"] = 2.8623399732707,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
-<<<<<<< HEAD
-=======
                                     [7] = 
                                     {
                                         ["type"] = "SON_9",
@@ -1282,7 +688,6 @@ staticTemplate =
                                         ["heading"] = 2.8623399732707,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [7]
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 }, -- end of ["units"]
                                 ["y"] = 50904.027869863,
                                 ["x"] = -182964.96119393,
@@ -1307,22 +712,13 @@ staticTemplate =
                                     {
                                         [1] = 
                                         {
-<<<<<<< HEAD
-                                            ["alt"] = 642.000612,
-=======
                                             ["alt"] = 612,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                             ["type"] = "Turning Point",
                                             ["ETA"] = 0,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
-<<<<<<< HEAD
-                                            ["y"] = 53514.215744545,
-                                            ["x"] = -178087.2933342,
-=======
                                             ["y"] = 53511.251244793,
                                             ["x"] = -178087.2417367,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                             ["ETA_locked"] = true,
                                             ["speed"] = 0,
                                             ["action"] = "Off Road",
@@ -1340,180 +736,67 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-<<<<<<< HEAD
-                                ["groupId"] = 33,
-=======
                                 ["groupId"] = 28,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
                                     [1] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["livery_id"] = "summer",
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 128,
-                                        ["y"] = 53514.215744545,
-                                        ["x"] = -178087.2933342,
-                                        ["name"] = "AssadAAA-3-1",
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 123,
                                         ["skill"] = "High",
                                         ["y"] = 53511.251244793,
                                         ["x"] = -178087.2417367,
                                         ["name"] = "AssadAAA-1-1",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["heading"] = 5.0265482457437,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [1]
                                     [2] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 129,
-                                        ["y"] = 53524.394357705,
-                                        ["x"] = -178074.22824865,
-                                        ["name"] = "AssadAAA-3-2",
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 124,
                                         ["skill"] = "High",
                                         ["y"] = 53521.429857953,
                                         ["x"] = -178074.17665115,
                                         ["name"] = "AssadAAA-1-2",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["heading"] = 5.6548667764616,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
                                     [3] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 130,
-                                        ["y"] = 53555.841714785,
-                                        ["x"] = -178074.91188685,
-                                        ["name"] = "AssadAAA-3-3",
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 125,
                                         ["skill"] = "High",
                                         ["y"] = 53552.877215033,
                                         ["x"] = -178074.86028935,
                                         ["name"] = "AssadAAA-1-3",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["heading"] = 0.62831853071796,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
                                     [4] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 131,
-                                        ["y"] = 53563.589614355,
-                                        ["x"] = -178087.5212136,
-                                        ["name"] = "AssadAAA-3-4",
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 126,
                                         ["skill"] = "High",
                                         ["y"] = 53560.625114603,
                                         ["x"] = -178087.4696161,
                                         ["name"] = "AssadAAA-1-4",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["heading"] = 1.2566370614359,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
                                     [5] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 132,
-                                        ["y"] = 53554.094639395,
-                                        ["x"] = -178109.77743491,
-                                        ["name"] = "AssadAAA-3-5",
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 127,
                                         ["skill"] = "High",
                                         ["y"] = 53551.130139643,
                                         ["x"] = -178109.72583741,
                                         ["name"] = "AssadAAA-1-5",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["heading"] = 2.5132741228718,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
                                     [6] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["AddPropVehicle"] = 
-                                        {
-                                            ["Shield"] = false,
-                                        }, -- end of ["AddPropVehicle"]
-                                        ["type"] = "flak18",
-                                        ["unitId"] = 133,
-                                        ["y"] = 53526.217392905,
-                                        ["x"] = -178110.15723391,
-                                        ["name"] = "AssadAAA-3-6",
-                                        ["heading"] = 3.7699111843078,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [6]
-                                }, -- end of ["units"]
-                                ["y"] = 53514.215744545,
-                                ["x"] = -178087.2933342,
-                                ["name"] = "AssadAAA-3",
-=======
                                         ["type"] = "KS-19",
                                         ["unitId"] = 128,
                                         ["skill"] = "High",
@@ -1538,205 +821,11 @@ staticTemplate =
                                 ["y"] = 53511.251244793,
                                 ["x"] = -178087.2417367,
                                 ["name"] = "AssadAAA-1",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 ["start_time"] = 0,
                             }, -- end of [3]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                     ["name"] = "CJTF Red",
-<<<<<<< HEAD
-                }, -- end of [1]
-                [2] = 
-                {
-                    ["id"] = 47,
-                    ["vehicle"] = 
-                    {
-                        ["group"] = 
-                        {
-                            [1] = 
-                            {
-                                ["visible"] = false,
-                                ["tasks"] = 
-                                {
-                                }, -- end of ["tasks"]
-                                ["uncontrollable"] = false,
-                                ["task"] = "Ground Nothing",
-                                ["taskSelected"] = true,
-                                ["route"] = 
-                                {
-                                    ["spans"] = 
-                                    {
-                                    }, -- end of ["spans"]
-                                    ["points"] = 
-                                    {
-                                        [1] = 
-                                        {
-                                            ["alt"] = 612,
-                                            ["type"] = "Turning Point",
-                                            ["ETA"] = 0,
-                                            ["alt_type"] = "BARO",
-                                            ["formation_template"] = "",
-                                            ["y"] = 50929.414297403,
-                                            ["x"] = -182916.54725747,
-                                            ["ETA_locked"] = true,
-                                            ["speed"] = 5.5555555555556,
-                                            ["action"] = "Off Road",
-                                            ["task"] = 
-                                            {
-                                                ["id"] = "ComboTask",
-                                                ["params"] = 
-                                                {
-                                                    ["tasks"] = 
-                                                    {
-                                                    }, -- end of ["tasks"]
-                                                }, -- end of ["params"]
-                                            }, -- end of ["task"]
-                                            ["speed_locked"] = true,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["groupId"] = 26,
-                                ["hidden"] = false,
-                                ["units"] = 
-                                {
-                                    [1] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Tigr_233036",
-                                        ["unitId"] = 101,
-                                        ["y"] = 50929.414297403,
-                                        ["x"] = -182916.54725747,
-                                        ["name"] = "AssadAAA-15-1",
-                                        ["heading"] = 5.3756140961425,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [1]
-                                    [2] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "KrAZ6322",
-                                        ["unitId"] = 102,
-                                        ["y"] = 51024.399518691,
-                                        ["x"] = -182851.28200201,
-                                        ["name"] = "AssadAAA-15-2",
-                                        ["heading"] = 5.9341194567807,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [2]
-                                    [3] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "KrAZ6322",
-                                        ["unitId"] = 109,
-                                        ["y"] = 51321.647440798,
-                                        ["x"] = -182670.11655026,
-                                        ["name"] = "AssadAAA-15-3",
-                                        ["heading"] = 5.7944931166212,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [3]
-                                }, -- end of ["units"]
-                                ["y"] = 50929.414297403,
-                                ["x"] = -182916.54725747,
-                                ["name"] = "AssadAAA-15",
-                                ["start_time"] = 0,
-                            }, -- end of [1]
-                            [2] = 
-                            {
-                                ["visible"] = false,
-                                ["tasks"] = 
-                                {
-                                }, -- end of ["tasks"]
-                                ["uncontrollable"] = false,
-                                ["task"] = "Ground Nothing",
-                                ["taskSelected"] = true,
-                                ["route"] = 
-                                {
-                                    ["spans"] = 
-                                    {
-                                    }, -- end of ["spans"]
-                                    ["points"] = 
-                                    {
-                                        [1] = 
-                                        {
-                                            ["alt"] = 642.000612,
-                                            ["type"] = "Turning Point",
-                                            ["ETA"] = 0,
-                                            ["alt_type"] = "BARO",
-                                            ["formation_template"] = "",
-                                            ["y"] = 53536.729008405,
-                                            ["x"] = -178090.4978327,
-                                            ["ETA_locked"] = true,
-                                            ["speed"] = 5.5555555555556,
-                                            ["action"] = "Off Road",
-                                            ["task"] = 
-                                            {
-                                                ["id"] = "ComboTask",
-                                                ["params"] = 
-                                                {
-                                                    ["tasks"] = 
-                                                    {
-                                                    }, -- end of ["tasks"]
-                                                }, -- end of ["params"]
-                                            }, -- end of ["task"]
-                                            ["speed_locked"] = true,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["groupId"] = 32,
-                                ["hidden"] = false,
-                                ["units"] = 
-                                {
-                                    [1] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Tigr_233036",
-                                        ["unitId"] = 126,
-                                        ["y"] = 53536.729008405,
-                                        ["x"] = -178090.4978327,
-                                        ["name"] = "AssadAAA-2-1",
-                                        ["heading"] = 5.3756140961425,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [1]
-                                    [2] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "KrAZ6322",
-                                        ["unitId"] = 127,
-                                        ["y"] = 53543.378536165,
-                                        ["x"] = -178088.80770458,
-                                        ["name"] = "AssadAAA-2-2",
-                                        ["heading"] = 5.9341194567807,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [2]
-                                }, -- end of ["units"]
-                                ["y"] = 53536.729008405,
-                                ["x"] = -178090.4978327,
-                                ["name"] = "AssadAAA-2",
-                                ["start_time"] = 0,
-                            }, -- end of [2]
-                        }, -- end of ["group"]
-                    }, -- end of ["vehicle"]
-                    ["name"] = "Syria",
-=======
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                 }, -- end of [2]
                 [3] = 
                 {
@@ -1753,10 +842,7 @@ staticTemplate =
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
                                 ["task"] = "Ground Nothing",
-<<<<<<< HEAD
-=======
                                 ["taskSelected"] = true,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -1809,19 +895,9 @@ staticTemplate =
                                 {
                                     [1] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-1 9P31",
-                                        ["unitId"] = 94,
-=======
                                         ["type"] = "Strela-1 9P31",
                                         ["unitId"] = 100,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50148.983368908,
                                         ["x"] = -180116.6900686,
                                         ["name"] = "AssadAAA-7-1",
@@ -1830,19 +906,9 @@ staticTemplate =
                                     }, -- end of [1]
                                     [2] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-1 9P31",
-                                        ["unitId"] = 95,
-=======
                                         ["type"] = "Strela-1 9P31",
                                         ["unitId"] = 101,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50220.009236706,
                                         ["x"] = -183321.34949688,
                                         ["name"] = "AssadAAA-7-2",
@@ -1851,19 +917,9 @@ staticTemplate =
                                     }, -- end of [2]
                                     [3] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Osa 9A33 ln",
-                                        ["unitId"] = 96,
-=======
                                         ["type"] = "Osa 9A33 ln",
                                         ["unitId"] = 102,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 53798.998727406,
                                         ["x"] = -176865.49805617,
                                         ["name"] = "AssadAAA-7-3",
@@ -1924,19 +980,9 @@ staticTemplate =
                                 {
                                     [1] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "S-60_Type59_Artillery",
-                                        ["unitId"] = 97,
-=======
                                         ["type"] = "S-60_Type59_Artillery",
                                         ["unitId"] = 103,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51284.882565944,
                                         ["x"] = -182711.92533318,
                                         ["name"] = "AssadAAA-17-1",
@@ -1945,19 +991,9 @@ staticTemplate =
                                     }, -- end of [1]
                                     [2] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "S-60_Type59_Artillery",
-                                        ["unitId"] = 98,
-=======
                                         ["type"] = "S-60_Type59_Artillery",
                                         ["unitId"] = 104,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51438.884195334,
                                         ["x"] = -182581.278151,
                                         ["name"] = "AssadAAA-17-2",
@@ -1966,19 +1002,9 @@ staticTemplate =
                                     }, -- end of [2]
                                     [3] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "S-60_Type59_Artillery",
-                                        ["unitId"] = 99,
-=======
                                         ["type"] = "S-60_Type59_Artillery",
                                         ["unitId"] = 106,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51238.047179673,
                                         ["x"] = -182759.37946437,
                                         ["name"] = "AssadAAA-17-3",
@@ -1987,27 +1013,15 @@ staticTemplate =
                                     }, -- end of [3]
                                     [4] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "S-60_Type59_Artillery",
-                                        ["unitId"] = 100,
-=======
                                         ["type"] = "S-60_Type59_Artillery",
                                         ["unitId"] = 105,
                                         ["skill"] = "Excellent",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 51368.727400945,
                                         ["x"] = -182633.12805213,
                                         ["name"] = "AssadAAA-17-4",
                                         ["heading"] = 2.7401669256311,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [4]
-<<<<<<< HEAD
-=======
                                     [5] = 
                                     {
                                         ["type"] = "SON_9",
@@ -2019,7 +1033,6 @@ staticTemplate =
                                         ["heading"] = 2.7401669256311,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 }, -- end of ["units"]
                                 ["y"] = 51284.882565944,
                                 ["x"] = -182711.92533318,
@@ -2033,121 +1046,6 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
-<<<<<<< HEAD
-                                ["task"] = "Ground Nothing",
-                                ["taskSelected"] = true,
-                                ["route"] = 
-                                {
-                                    ["spans"] = 
-                                    {
-                                    }, -- end of ["spans"]
-                                    ["points"] = 
-                                    {
-                                        [1] = 
-                                        {
-                                            ["alt"] = 642.000612,
-                                            ["type"] = "Turning Point",
-                                            ["ETA"] = 0,
-                                            ["alt_type"] = "BARO",
-                                            ["formation_template"] = "",
-                                            ["y"] = 53540.497835245,
-                                            ["x"] = -178112.8917867,
-                                            ["ETA_locked"] = true,
-                                            ["speed"] = 0,
-                                            ["action"] = "Off Road",
-                                            ["task"] = 
-                                            {
-                                                ["id"] = "ComboTask",
-                                                ["params"] = 
-                                                {
-                                                    ["tasks"] = 
-                                                    {
-                                                    }, -- end of ["tasks"]
-                                                }, -- end of ["params"]
-                                            }, -- end of ["task"]
-                                            ["speed_locked"] = true,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["groupId"] = 31,
-                                ["hidden"] = false,
-                                ["units"] = 
-                                {
-                                    [1] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "S-60_Type59_Artillery",
-                                        ["unitId"] = 122,
-                                        ["y"] = 53540.497835245,
-                                        ["x"] = -178112.8917867,
-                                        ["name"] = "AssadAAA-1-1",
-                                        ["heading"] = 3.1415926535898,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [1]
-                                    [2] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "S-60_Type59_Artillery",
-                                        ["unitId"] = 123,
-                                        ["y"] = 53562.678096755,
-                                        ["x"] = -178100.20650015,
-                                        ["name"] = "AssadAAA-1-2",
-                                        ["heading"] = 1.8849555921539,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [2]
-                                    [3] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "S-60_Type59_Artillery",
-                                        ["unitId"] = 124,
-                                        ["y"] = 53516.570498335,
-                                        ["x"] = -178101.11801774,
-                                        ["name"] = "AssadAAA-1-3",
-                                        ["heading"] = 4.3982297150257,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [3]
-                                    [4] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "S-60_Type59_Artillery",
-                                        ["unitId"] = 125,
-                                        ["y"] = 53540.193996045,
-                                        ["x"] = -178071.03793706,
-                                        ["name"] = "AssadAAA-1-4",
-                                        ["heading"] = 0,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [4]
-                                }, -- end of ["units"]
-                                ["y"] = 53540.497835245,
-                                ["x"] = -178112.8917867,
-                                ["name"] = "AssadAAA-1",
-                                ["start_time"] = 0,
-                            }, -- end of [3]
-                            [4] = 
-                            {
-                                ["visible"] = false,
-                                ["tasks"] = 
-                                {
-                                }, -- end of ["tasks"]
-                                ["uncontrollable"] = false,
-=======
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -2181,29 +1079,15 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-<<<<<<< HEAD
-                                ["groupId"] = 34,
-=======
                                 ["groupId"] = 27,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
                                     [1] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "snr s-125 tr",
-                                        ["unitId"] = 134,
-=======
                                         ["type"] = "snr s-125 tr",
                                         ["unitId"] = 112,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50285.240556895,
                                         ["x"] = -180828.76941654,
                                         ["name"] = "AssadAAA-4-1",
@@ -2212,19 +1096,9 @@ staticTemplate =
                                     }, -- end of [1]
                                     [2] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "5p73 s-125 ln",
-                                        ["unitId"] = 135,
-=======
                                         ["type"] = "5p73 s-125 ln",
                                         ["unitId"] = 113,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50387.025410105,
                                         ["x"] = -180856.50500254,
                                         ["name"] = "AssadAAA-4-2",
@@ -2233,19 +1107,9 @@ staticTemplate =
                                     }, -- end of [2]
                                     [3] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "5p73 s-125 ln",
-                                        ["unitId"] = 136,
-=======
                                         ["type"] = "5p73 s-125 ln",
                                         ["unitId"] = 119,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50272.233229409,
                                         ["x"] = -180727.67905752,
                                         ["name"] = "AssadAAA-4-3",
@@ -2254,19 +1118,9 @@ staticTemplate =
                                     }, -- end of [3]
                                     [4] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "5p73 s-125 ln",
-                                        ["unitId"] = 137,
-=======
                                         ["type"] = "5p73 s-125 ln",
                                         ["unitId"] = 114,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50492.843698729,
                                         ["x"] = -180785.60901214,
                                         ["name"] = "AssadAAA-4-4",
@@ -2275,19 +1129,9 @@ staticTemplate =
                                     }, -- end of [4]
                                     [5] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "5p73 s-125 ln",
-                                        ["unitId"] = 138,
-=======
                                         ["type"] = "5p73 s-125 ln",
                                         ["unitId"] = 117,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50325.968135883,
                                         ["x"] = -180599.52802985,
                                         ["name"] = "AssadAAA-4-5",
@@ -2296,19 +1140,9 @@ staticTemplate =
                                     }, -- end of [5]
                                     [6] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "p-19 s-125 sr",
-                                        ["unitId"] = 139,
-=======
                                         ["type"] = "p-19 s-125 sr",
                                         ["unitId"] = 120,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50335.448620796,
                                         ["x"] = -180866.43322891,
                                         ["name"] = "AssadAAA-4-6",
@@ -2317,19 +1151,9 @@ staticTemplate =
                                     }, -- end of [6]
                                     [7] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "SKP-11",
-                                        ["unitId"] = 140,
-=======
                                         ["type"] = "SKP-11",
                                         ["unitId"] = 111,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50320.070064774,
                                         ["x"] = -180761.76274606,
                                         ["name"] = "AssadAAA-4-7",
@@ -2338,19 +1162,9 @@ staticTemplate =
                                     }, -- end of [7]
                                     [8] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZiL-131 APA-80",
-                                        ["unitId"] = 141,
-=======
                                         ["type"] = "ZiL-131 APA-80",
                                         ["unitId"] = 115,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50312.098158164,
                                         ["x"] = -180807.45461023,
                                         ["name"] = "AssadAAA-4-8",
@@ -2359,19 +1173,9 @@ staticTemplate =
                                     }, -- end of [8]
                                     [9] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "GAZ-66",
-                                        ["unitId"] = 142,
-=======
                                         ["type"] = "GAZ-66",
                                         ["unitId"] = 116,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50309.41844394,
                                         ["x"] = -180755.62131942,
                                         ["name"] = "AssadAAA-4-9",
@@ -2380,19 +1184,9 @@ staticTemplate =
                                     }, -- end of [9]
                                     [10] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "GAZ-66",
-                                        ["unitId"] = 143,
-=======
                                         ["type"] = "GAZ-66",
                                         ["unitId"] = 118,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50309.461301105,
                                         ["x"] = -180761.34651309,
                                         ["name"] = "AssadAAA-4-10",
@@ -2401,19 +1195,9 @@ staticTemplate =
                                     }, -- end of [10]
                                     [11] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "GAZ-66",
-                                        ["unitId"] = 144,
-=======
                                         ["type"] = "GAZ-66",
                                         ["unitId"] = 122,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50309.767509066,
                                         ["x"] = -180766.04170184,
                                         ["name"] = "AssadAAA-4-11",
@@ -2422,19 +1206,9 @@ staticTemplate =
                                     }, -- end of [11]
                                     [12] = 
                                     {
-<<<<<<< HEAD
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZiL-131 APA-80",
-                                        ["unitId"] = 145,
-=======
                                         ["type"] = "ZiL-131 APA-80",
                                         ["unitId"] = 121,
                                         ["skill"] = "High",
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                                         ["y"] = 50311.024046785,
                                         ["x"] = -180771.80753883,
                                         ["name"] = "AssadAAA-4-12",
@@ -2446,8 +1220,6 @@ staticTemplate =
                                 ["x"] = -180828.76941654,
                                 ["name"] = "AssadAAA-4",
                                 ["start_time"] = 0,
-<<<<<<< HEAD
-=======
                             }, -- end of [3]
                             [4] = 
                             {
@@ -2566,14 +1338,11 @@ staticTemplate =
                                 ["x"] = -178113.02975838,
                                 ["name"] = "AssadAAA-3",
                                 ["start_time"] = 0,
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
                             }, -- end of [4]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                     ["name"] = "Russia",
                 }, -- end of [3]
-<<<<<<< HEAD
-=======
                 [4] = 
                 {
                     ["id"] = 47,
@@ -2744,7 +1513,6 @@ staticTemplate =
                     }, -- end of ["vehicle"]
                     ["name"] = "Syria",
                 }, -- end of [4]
->>>>>>> ac140b6cbf661912a96daafe2ff604e8dcb78769
             }, -- end of ["country"]
         }, -- end of ["red"]
     }, -- end of ["coalition"]
