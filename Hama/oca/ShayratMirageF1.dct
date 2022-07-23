@@ -1,0 +1,9 @@
+objtype = "oca"
+intel = 4
+cost = 2
+desc = "Intel indicates the Syrian Air Force has based a squadron of Mirage F1 interceptors at Shayrat Air Base. They must be destroyed to ensure air superiority over central Syria.\
+\
+Primary Targets: Destroy any Mirage F1 fighters at Shayrat Air Base. Recon images show at least 4, all staged on the north ramp.\
+\
+Recommended weapons: Pilot discretion."
+coalition = 1
