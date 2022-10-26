@@ -28,9 +28,9 @@ buildings = {
 	},
 }
 desc = 										
-"%LOCATIONMETHOD% a Syrian military weapons plant. This plant is critical in their supply of ATGMs.\
+"%LOCATIONMETHOD% a Syrian military weapons plant in the city of Idlib. This plant is critical in their supply of ammunition.\
 \
-Primary Targets: Destroy the three large warehouses on the east side of the factory, %LOCATION%.\
+Primary Targets: Destroy the three largest buildings on the eastern side of the factory. Two of the buildings are oriented east-west while the third is oriented north-south, %LOCATION%.\
 \
 Recommended Pilots: 2+"
 
