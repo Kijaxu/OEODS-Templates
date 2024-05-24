@@ -1,5 +1,0 @@
-objtype = "specialforces"
-intel = 2
-cost = 2
-exclusion = "YC40"
-priority = 3
