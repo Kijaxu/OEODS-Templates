@@ -6,6 +6,7 @@ subordinates = {
 	"2SQN17CAV",
 	"227AR",
 	"653SQN",
+	"1SQN17CAV"
 }
 
 players = {
@@ -34,6 +35,10 @@ players = {
 	"2SQN17CAV - Palehorse 7-6",
 	"2SQN17CAV - Palehorse 7-7",
 	"2SQN17CAV - Palehorse 7-8",
+	"1SQN17CAV - Roughneck 8-1",
+	"1SQN17CAV - Roughneck 8-2",
+	"1SQN17CAV - Roughneck 8-3",
+	"1SQN17CAV - Roughneck 8-4",
 }
 desc = "Kiryat Shmona Helicopter Base"
 recoverytype = "land"
