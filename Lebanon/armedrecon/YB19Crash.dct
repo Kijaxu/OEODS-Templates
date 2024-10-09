@@ -3,3 +3,4 @@ intel = 2
 cost = 2
 priority = 4
 exclusion = "YB19"
+regenerate = true
